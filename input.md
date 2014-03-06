@@ -1,7 +1,7 @@
 ---
 title: "Oscillating between statism and neo-liberalism: welfare paradoxes in Russia"
 author: [Kainu Markus, Kivinen Markku, Kulmala Meri, Nikula Jouko]
-date: February 20, 2014
+date: March 6, 2014
 abstract: Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc. Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc.
 ...
 
