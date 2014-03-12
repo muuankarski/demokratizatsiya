@@ -1,8 +1,10 @@
 ---
 title: "Oscillating between statism and neo-liberalism: welfare paradoxes in Russia"
 author: [Kainu Markus, Kivinen Markku, Kulmala Meri, Nikula Jouko]
-date: March 6, 2014
-abstract: Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc. Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc.
+date: March 12, 2014
+abstract: |
+    A severe demographic crisis emerged as a result of the Russian transition: a combination of the low birth rate and rise in rates of premature mortality (especially of Russian men) has led to a sharp decline in population. (Cook, 2011; Field, 1995) The old welfare regime seems to be rusting and there is evident need for new solutions. The issue of social justice (social citizenship) is now a central problem; while it was high on the Soviet agenda, but lost in the first times of transition. The creation of a new model of its welfare state is one of the most comprehensive and still very much unresolved strategic tasks of post-communist Russia. The Russian governments have since 1991relied on mixes of surviving Soviet practices, adoption of Western welfare policies, and ad hoc measures. Until lately the oil exports have produced a budget surplus that has been used for stabilizing the economy and providing more resources for social security. Further analysis is necessary to explain how, by whom, and to which priorities those resources have been channeled at the practical level. The current Russian welfare regime represents an informalized model where the state does not provide needed social protection, but improvised solutions are found by enterprises and individuals. In this article we study the interests and roles of different actors in formulation of welfare policies in Russia. We argue in the article that Russian welfare policy is oscillating between contradictory tendencies: between neoliberalism and state-based social policy, between individualisation of risks and strong administrative control and alternative, politically challenging grassroots services seem to have little space today.(see: Hemment, 2009). Therefore, we argue, the question of welfare model is in very fundamental sense also a question of democracy.
+tags:  [welfare mix, social justice, democracy, actors, Russia]
 ...
 
 \newpage
@@ -31,6 +33,8 @@ In order to establish a more comprehensive understanding of the Russian welfare 
 
 “Conventional wisdom”
 ========================================================
+
+![File from thegadget](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
 
 
 Post-socialist liberalization 
