@@ -1,5 +1,5 @@
 ---
-title: "Oscillating between statism and neo-liberalism: welfare paradoxes in Russia"
+title: "Paradoxes of agency: democracy and welfare in Russia"
 author: [Kainu Markus, Kivinen Markku, Kulmala Meri, Nikula Jouko]
 date: March 12, 2014
 abstract: |
@@ -94,13 +94,11 @@ No politics in welfare
 - Instead of politics welfare bureaucracy in power
     - No-one to blame in the elections
 
+### Citizens expectations
 
+`datoja: levada, ESS`
 
-
-Citizens expectations
------------------------------------------------------------
-
-In the end, neither the government has totally abandoned the principles of state provision in the social field nor have the Russian citizens changed their expectations towards the state. In the middle of the described, often controversial state policies, the liberal idea of an individually based social responsibility has never been widely accepted among Russians. On the contrary, the social welfare norms established by the Soviet socialism still largely retain (Collier 2001, 3) and Russian citizens still expect the state act as a main provider of social welfare (Henry 2009; Kulmala 2013).[^9]
+In  the end, neither the government has totally abandoned the principles of  state provision in the social field nor have the Russian citizens  changed their expectations towards the state. In the middle of the  described, often controversial state policies, the liberal idea of an  individually based social responsibility has never been widely accepted  among Russians. On the contrary, the social welfare norms established by  the Soviet socialism still largely retain (Collier 2001, 3) and Russian  citizens still expect the state act as a main provider of social  welfare (Henry 2009; Kulmala 2013).[^9]
 
 
 Federalism: regional variation
