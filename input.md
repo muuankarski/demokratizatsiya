@@ -1,7 +1,7 @@
 ---
 title: "Paradoxes of agency: democracy and welfare in Russia"
 author: [Kainu Markus, Kivinen Markku, Kulmala Meri, Nikula Jouko]
-date: March 12, 2014
+date: March 22, 2014
 abstract: |
     A severe demographic crisis emerged as a result of the Russian transition: a combination of the low birth rate and rise in rates of premature mortality (especially of Russian men) has led to a sharp decline in population. (Cook, 2011; Field, 1995) The old welfare regime seems to be rusting and there is evident need for new solutions. The issue of social justice (social citizenship) is now a central problem; while it was high on the Soviet agenda, but lost in the first times of transition. The creation of a new model of its welfare state is one of the most comprehensive and still very much unresolved strategic tasks of post-communist Russia. The Russian governments have since 1991relied on mixes of surviving Soviet practices, adoption of Western welfare policies, and ad hoc measures. Until lately the oil exports have produced a budget surplus that has been used for stabilizing the economy and providing more resources for social security. Further analysis is necessary to explain how, by whom, and to which priorities those resources have been channeled at the practical level. The current Russian welfare regime represents an informalized model where the state does not provide needed social protection, but improvised solutions are found by enterprises and individuals. In this article we study the interests and roles of different actors in formulation of welfare policies in Russia. We argue in the article that Russian welfare policy is oscillating between contradictory tendencies: between neoliberalism and state-based social policy, between individualisation of risks and strong administrative control and alternative, politically challenging grassroots services seem to have little space today.(see: Hemment, 2009). Therefore, we argue, the question of welfare model is in very fundamental sense also a question of democracy.
 tags:  [welfare mix, social justice, democracy, actors, Russia]
@@ -9,8 +9,8 @@ tags:  [welfare mix, social justice, democracy, actors, Russia]
 
 \newpage
 
-Introduction
-======================================================
+
+# Introduction
 
 It is difficult to overstate the social crisis that emerged as a result of the Russian transition from the socialist system into the market economy. Increases in poverty, inequality, infectious diseases, alcohol and drug abuse and unemployment are dramatic indicators. At the same time the old welfare regime seems to be rusting and emergent need for new solutions is evident. The creation of a new model of its welfare state is one of the most comprehensive - and still to a large extent unresolved – strategic tasks of post-communist Russia.
 
@@ -31,20 +31,19 @@ The above-listed, sometimes even controversial to one another, federal-level wel
 In order to establish a more comprehensive understanding of the Russian welfare system,  we claim that such macro level information is to be linked to actual practices at the local level. Thus, we juxtapose national-level ideologies and policies with one another and then with the actual practices at the grassroots level in order to see how macro-level ideologies manifest themselves and possibly become negotiated and thus modified in the micro-level realities. 
 
 
-“Conventional wisdom”
-========================================================
+# “Conventional wisdom”
+
 
 ![File from thegadget](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
 
 
-Post-socialist liberalization 
----------------------------------------------------------
+## Post-socialist liberalization 
+
 
 As noted, after the collapse of the socialist welfare system, basically, the trend has been to liberalize, privatize and decentralize the social obligations and thus to restrict the role of the Russian state in welfare provision. This was motivated by restricting the role of the state in welfare provision (Cerami 2009; Cook 2007; Kivinen, forthcoming). The collapse of the economy in the late Soviet and Yeltsin’s years was disastrous for people’s lives as well as for the state’s provision of health and social services. Under Yeltsin, the priority was relieving pressures on the state budget.
 
 
-Russia oil-led welfare miracle
----------------------------------------------------------
+## Russia oil-led welfare miracle
 
 (Cut from: Jäppinen, Johnson & Kulmala 2014): As part of the story of Putin’s (and Medvedev’s) popularity among Russians, a second usual framework is the idea that social services have been bolstered, leaving to improvements in people’s lives (McFaul and Stoner-Weiss 2008). 
 In the 2000s, under the Putin regime, in parallel to continuing of downsizing the old social policy, there has been a reverse trend toward greater centralization of social policy. Social policy was designated as the most urgent task for all levels of government and administration, and particularly since 2005, the president seemed to turn the direction back towards statist welfare policies (Cook 2011; Remington 2011). With rising state revenues from the high prices of oil on the international market, the narrative is that Putin rebuilt the welfare state—though, in practice, most prominent economic growth and consequent reforms took place under Medvedev’s presidency [^1]. In 2007, GDP growth reached 8.1 per cent, becoming one of the fastest in major economies (Sutela 2012, 38). Oil and gas exports, contributing approximately 15 per cent of GDP (60 per cent of total export, Cerami 2009, 105), produced a budget surplus that has been used for stabilizing the economy and for providing an increase in social protection for the citizens[^2]. Improving the quality of life of citizens has been one of the primary targets to which the available financial resources have been used.  Between 2007 and 2010, expenditures for social policy doubled (Cerami 2009, 113).  At the same time, poverty rates considerably declined and rapidly growing inequality stabilized (Kivinen, forthcoming).  Cerami (2009) called such oil-led social policy the Russian miracle—the future of which, however, remains highly volatile and unpredictable.
@@ -54,8 +53,7 @@ The budget surplus grew until the 2008 world-wide economic crisis, when Russia h
 The welfare state was an important part of Putin’s promises as he moved to reclaim the presidency in 2011, ramping up social spending that neoliberal economists argue are too costly for long term growth, even if the Russian economy has been recovering from the crisis rapidly and Russia’s fiscal situation is still among the best of the world (Kivinen, forthcoming).  
 
 
-Increasing neo-liberalism in the 2000s’
---------------------------------------------------------------
+## Increasing neo-liberalism in the 2000s’
 
 Under the Putin/Medvedev tandem, in parallel to statist turn -- continuation of downsizing the old social policy,  recent tendencies to rearrange social responsibilities prompt us to think whether such shifts in division of those responsibilities, previously dominantly carried out by the state, can be displayed as a neoliberal turn of new principles in social provision. out-source its previous social obligations onto the shoulders of Russian (socially oriented) NGOs (cf. Kulmala & Tarasenko 2013; Kulmala 2013, 128, 288).[^4] 
 
@@ -65,18 +63,17 @@ Charity campaigns -- to attract attention, win public trust and raise money for 
 
 
 
-Challenging the conventional stories
-===========================================================
+# Challenging the conventional stories
 
 
-No political will
------------------------------------------------------------
+## No political will
+
 
 Even without these cuts, while welfare funding has increased rapidly in real terms since the early 2000s, federal social outlays overall have not increased more rapidly, perhaps even declining, relative to the other outlays.[^7] The Russian miracle in social policy is overstatement, since the political will can hardly been seen in outlays in their relative numbers (Kivinen, forthcoming).
 
 
-Selected priorities 
------------------------------------------------------------
+## Selected priorities 
+
 
 Instead, state policies have been family centered and pronatalist, reinscribing maternal roles for women (Cook 2011; Rivkin-Fish 2010).[^8] The underlying assumption is that addressing the demographic crisis is women’s responsibility (to have more babies), even as the crisis, as noted, is rooted in some men’s unhealthy ways of life (Jäppinen et al. 2010, 3). Emphasis on heteronormative nuclear family can be seen in many other policies as well, not least in 2011 reforms restricting abortion for the first time since Stalin. A National Family Strategy proposed in 2013 reinforces traditional family values by defining the ideal family as “a family formed by a married couple and their two or more children, or a family oriented to childbirth” (Kontseptsiia gosudarstvennoi semeinoi politiki 2013).
 
@@ -85,8 +82,8 @@ Instead, state policies have been family centered and pronatalist, reinscribing 
 `Summa summarum: national security interests --- directs social policies`
 
 
-No politics in welfare
------------------------------------------------------------
+## No politics in welfare
+
 
 - No coherent policy-making behind the different and sometimes controversial tendencies: better to speak about ad-hoc measures? 
     - No organized interest representation  
@@ -101,8 +98,8 @@ No politics in welfare
 In  the end, neither the government has totally abandoned the principles of  state provision in the social field nor have the Russian citizens  changed their expectations towards the state. In the middle of the  described, often controversial state policies, the liberal idea of an  individually based social responsibility has never been widely accepted  among Russians. On the contrary, the social welfare norms established by  the Soviet socialism still largely retain (Collier 2001, 3) and Russian  citizens still expect the state act as a main provider of social  welfare (Henry 2009; Kulmala 2013).[^9]
 
 
-Federalism: regional variation
------------------------------------------------------------
+## Federalism: regional variation
+
 
 More so than most observers acknowledge, Russia’s federalism matters. This is most evident when looking at social policy. According to law, the Russian federal state answers only for the general principles and national standards: social obligations were almost entirely removed by the 2006 administrative reform from the municipal level mostly to the regional level the implementation of these policies is under the responsibility of the regions, which enact regional laws to organize, manage and finance the related services and subsidies.10 The services themselves naturally take a concrete form in municipalities (Kulmala 2013, 90-92.)
 
@@ -110,7 +107,9 @@ More so than most observers acknowledge, Russia’s federalism matters. This is 
 
 In this respect, the regional level again proved its importance in understanding the functioning of the three-level state in contemporary Russia. 
 
-- Disparity between the federal policies and local circumstances
+
+### Disparity between the federal policies and local circumstances
+
 - Scarce of resources at the local level – produce hybrid efforts
 - Even neo-liberal reforms end up resembling “Soviet” at the grassroots
 - Empirical examples – opposite logic to federal outsourcing policies – it seems to be more reliable to arrange services for citizens’ at the public sector (instead of NGO, cf. voluntary failure – Kulmala 2013) – NGOs invent social service that are to be later transferred to the state (see Kulmala 2013; Jäppinen, Johnson & Kulmala 2014).      
@@ -119,8 +118,8 @@ In this respect, the regional level again proved its importance in understanding
 
 
 
-Discussion
-================================================================
+# Discussion
+
 
 - What we need in order to understand welfare developments in Russia (or in any other context?) is multi-level and –layered analysis
 - New questions to be asked     
@@ -128,8 +127,7 @@ Discussion
 
 
 
-References
-================================================================
+# References
 
 
 
