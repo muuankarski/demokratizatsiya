@@ -12,29 +12,26 @@ tags:  [welfare mix, social justice, democracy, actors, Russia]
 
 # Introduction
 
-It is difficult to overstate the social crisis that emerged as a result of the Russian transition from the socialist system into the market economy. Increases in poverty, inequality, infectious diseases, alcohol and drug abuse and unemployment are dramatic indicators. At the same time the old welfare regime seems to be rusting and emergent need for new solutions is evident. The creation of a new model of its welfare state is one of the most comprehensive - and still to a large extent unresolved – strategic tasks of post-communist Russia.
+It is difficult to overstate the social crisis that emerged as a result of the Russian transition from the socialist system into the market economy. Increases in poverty, inequality, infectious diseases, alcohol and drug abuse and unemployment are dramatic indicators. At the same time the old welfare regime seems to be rusting and emergent need for new solutions is evident. The creation of a new model of its welfare state is one of the most comprehensive – and still to a large extent unresolved – strategic tasks of post-communist Russia.
+ 
+After the collapse of the communist regime, Russian welfare structures have been under constant reformation and social responsibilities of the state have been taken back and forth among the different governmental levels (more in Kulmala 2013). What we have seen after the somewhat chaotic Yeltsin years, which were characterized by liberalization and recentralization of the state’s previous social obligations, is an ever-increasing emphasis of the Putin administration on welfare questions. Improving the quality of life of Russian citizens has been one of the primary targets of the budget surplus that has appeared thanks to the rising state revenues from the high price of the oil on the international market. This budget surplus grew until the 2008 world-wide economic crisis, which hit Russia hard (Sutela 2012).[^1] However, the commitment of the Russian government to welfare continued even during and after the crisis. The welfare state was an important part of Putin’s promises as he moved to reclaim the presidency in 2011 (Jäppinen, Johnson & Kulmala 2014). 
+ 
+Hence, we have seen many welfare related questions taking a top position on the agenda of the Russian federal government as well as concrete investments in welfare since 2005. At the same time, poverty rates considerably declined and rapidly growing inequality stabilized (Kivinen, forthcoming).  Yet, the overall picture does not look that promising that one would assume after such substantial attention. 
 
+INSERT FIGURE HERE plus open it up ---
 ![Russian economy](http://upload.wikimedia.org/wikipedia/commons/0/06/Russian_economy_since_fall_of_Soviet_Union.PNG)
 
-`Oil-led economy -- investments in welfare -> Yet, the picture does not look that good that one would assume`
+In this article, our aim is to discuss what are the major reasons that would explain why the situation has not improved as one could have expected because of such “hype”. In our discussion, we pay special attention to the questions concerning the relationship between the political regime(s) in the country and welfare arrangements. Since 1991, Russian governments have adoption of Western – often (neo)liberal – welfare policies, relied on mixes of surviving Soviet practices, and ad hoc measures. That is to say, Russian welfare policy seems to oscillate between contradictory tendencies: between neoliberalism and state-based social policy, between individualization of risks and strong administrative control (Hemment 2009). In this article, we aim to understand these sometimes controversial or even paradoxical tendencies in welfare efforts performed by the Russian state. 
 
-`A hook figure/chart somewhere here in the beginning --`
+We claim that to establish a more comprehensive understanding of the Russian welfare policies (and consequently of the system) requires multi-level analysis which in parallel with the consideration of the structural factors brings in agency (and/or lack of agency) of multiple actors in the field. Moreover, we claim that the investigation of the federal (i.e. macro) level social policies is to be linked to the solutions at the regional (i.e. meso) level, where most responsibilities of the social policies lie and thus become implemented, and importantly to actual practices at the local level, where many of the upper-level policies take their concrete form – as welfare services, for instance. 
 
-
-After the collapse of the communist regime, Russian welfare structures have been under constant reformation and social responsibilities of the state have been taken back and forth among the different governmental levels. Basically, the trend has been to liberalize, privatize and decentralize the social obligations and to restrict the role of the state in welfare provision (Cook 2007). Yet, in the 2000s, under the Putin-Medvedev tandem, there has been a reverse trend toward greater centralization of social policy (Cook 211).  At the same time – neo-liberal reforms to outsource previous social obligations onto the shoulders of Russian NGOs, businesses and individual citizens (cf. Kulmala & Tarasenko 2014)
-
-The above-listed, sometimes even controversial to one another, federal-level welfare policies require profound and multi-level analysis.  With this article we aim to contribute to the debates --
-- How to explain these controversial tendencies / paradoxes? 
-
-**Question**: *relationship between the political regime and welfare arrangements*
-
-In order to establish a more comprehensive understanding of the Russian welfare system,  we claim that such macro level information is to be linked to actual practices at the local level. Thus, we juxtapose national-level ideologies and policies with one another and then with the actual practices at the grassroots level in order to see how macro-level ideologies manifest themselves and possibly become negotiated and thus modified in the micro-level realities. 
-
-
-# “Conventional wisdom”
+In this article, we first shortly introduce “the story of the major trends” concerning the Russian (federal-level) welfare policies since the collapse of the socialist system until the very recent years. This story builds on the scholarly literature focused on Russian social policy. In the next section, we debate and partly challenge such “conventional wisdom” by providing our insights that derive from our efforts to overcome the dichotomy of structure and agency and to combine different levels in our analysis. We claim that through such an approach enables us to build a slightly “thicker” picture of the Russian welfare system as well as to understand some evident contradictories within it.    
 
 
 ![File from thegadget](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
+
+# "Conventional storyline": from shock therapy to statist welfare
+
 
 
 ## Post-socialist liberalization 
@@ -134,7 +131,7 @@ In this respect, the regional level again proved its importance in understanding
 <!--***********************************************************
 ******************    ALAVIITTEET ALKAA   *********************
 *********************************************************** -->
-
+[^1]  Russia had one of the most severe contraction among G20 countries in  2009 (Sutela 2012). However, the Russian economy has been recovering  from the crisis rapidly and Russia’s fiscal situation is still among the  best of the world (Kivinen, forthcoming).
 [^1]: According to Cerami (2009), it was under the executive of Medvedev when social interests became a priority for the first time, by combining strong liberalization efforts with social awareness (also Sutela 2012, 199).
 [^2]: In the beginning of 2014, a Stabilization Fund was established to balance the federal budget in a case of cut-off in oil prices. The stabilization fund grew from 18.9 billion $ of 2004 to 156.8 billion $ in 2007 (Cerami 2009, 112).
 [^3]: Since 2005, year 2010 presents the highest share of social expenditure of the national GDP (Korhonen 2013). 
