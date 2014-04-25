@@ -92,11 +92,11 @@ Table: Subcategories of social security in social expenditure
 The Russian population is ageing rapidly and this implies a rising dependency ratio, especially because the retirement age is low (60 for men and 55 for women). During the next twenty years the number of pensioners is going to increase by ten million, whereas the working population will decline by eleven million. Already by 2020 there will be around 800 retired persons for every 1,000 working age citizens. This seems to indicate a pressure to increase the age of retirement.
 
 
-![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](http://www.helsinki.fi/aleksanteri/crm/images/header.jpg)
+![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](http://misterguch.brinkster.net/graph1.gif)
 
 *Source: Rosstat 2012*
 
-![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](http://www.helsinki.fi/aleksanteri/crm/images/header.jpg)
+![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](http://misterguch.brinkster.net/graph1.gif)
 
 *Source: Rosstat 2012*
 
@@ -200,75 +200,75 @@ In other words, in the context of Russia, understanding of the welfare system re
 
 # References
 
-	* Anderson, Barbara A. & Brian D. Silver. The Changing Shape of Soviet Mortality, 1958–1985: An Evaluation of Old and New Evidence. Population Studies, Vol. 43/1989,  243–65. 
-	* Aspalter, Christian:  New Developments in the Theory of Comparative Social Policy. Journal of Comparative Social Welfare Vol. 1, 2006/1, 3–22. 
-	* Cerami, Alfio: Socio-Economic Transformations in Post-Communist Countries: Central and Eastern Europe and Russia Compared. Romanian Journal of Political Science, Vol. 9 No. 1, 2009 (http:///www.sar.org.ro/polsci/), (2009a)
-	* Cerami, Alfio: Welfare State Developments in the Russian Federation: Oil-Led Social Policy and ‘The Russian Miracle’. Social Policy & Administration, Vol.43 no. 2, 105–120, (2009b) 
-	* Clarke, Simon: The contradictions of ‘state socialism’. In Simon Clarke et al.: What about the Workers. Workers and the Transition to Capitalism in Russia. Edgar Elgar 1993.
-	* Clarke, Simon: Post-socialist trade unions: China and Russia. Industrial Relations Journal, Vol. 36, 2005/1, 2–18.
-	* Cook, Linda J.: Postcommunist Welfare states: Reform Politics in Russia and Eastern Europe. Cornell UP 2007. 
-	* Cooper, Julian: Reviewing Russian Strategic Planning. The Emergence of Strategy 2020. Nato Defence College Research Division 2012.
-	* De Silva, M.O & G. Kurlyanskaya & E. Andreeva & N. Golovanova: Intergovernmental Reforms in the Russian Federation: One Step Forward, Two Steps Back? Washington, DC: The World Bank.
-	* Feshbach, Murray: Between the Lines of the 1979 Soviet Census. In Problems of Communism, January 1982, pp. 27–37.
-	* Gaidar, Yegor: Vlast i sobstvennost; Smuty i instituty; Gosudarstvo i evolutsiya. Sankt-Peterburg, Norma 2009.
-	* Gaman-Golutvina, Oxana: The Changing Role of the State and State Bureaucracy in the Context of Public Administration Reforms: Russian and Foreign Experience. In Anton Oleinik (ed.): Reforming the State without Changing the Model of Power? Routledge 2009.
-	* Geroimenko, Vladimir, A. & Grigori A. Klucharev & John W. Morgan: Private Higher Education in Russia: Capacity for Innovation and Investment.European Journal of Education, Vol. 47, No 1, 2012
-	* Golovljanitsina, E.B.: Innovatsionen li rossijskij srednij klass? Osobennosti professional’noj struktury i trudovyh tsennostej srednego klassa nakanune krizisa. Mir Rossii, Vol. 18, 2009/4, 19-36.
-	* Gorshkov, M.G. (et al.): Srednij klass v sovremennom Rossiiskom obschestve. Moscow 1999.
-	* Gorshkov, M.G. (et al.) (Ed.): Srednij klass v sovremennoj Rossii. Institut sotsiologii RAN 2008.
-	* Gorshkov, M.G.: Rossijskoe obschestvo v sotsiologitsheskom izmerenii. Mir Rossii, Vol. 18, 2009/2, 3-21.
-	* Grigoriev, Leonid & Maleva, Tatyana: Srednii klass v sovremennom rossiiskom obshchestve. Voprosy ekonomiki 2001/1, 40-50.
-	* Hughes, M.C.: Smashing the iron bowl. Foreign Affairs, Vol. 77, 1998/4.
-	* Kivinen, Markku: Classes in the Making. Russian Class Structure in Transition. In Göran Therborn (ed.): Inequalities of the World. Verso 2007, 247-294.
-	* Kivinen, Markku & Chunling Li: The Free-Market State or the Welfare State. In Christer Pursiainen (Ed.): At the Crossroads of Post-Communist Transition: Comparative Analysis of Russia and China, Palgrave Macmillan 2012 (forthcoming).
-	* Korpi, Walter: The Democratic Class Struggle. Routledge and Kegan Paul 1983.
-	* Kulmala, Meri: Russian Society. In: Russia of Challenges, Helsinki, Ministry of Defence 2007, 9–31.
-	* Lin, Ka & Kangas Olli: Social Policymaking and its institutional basis: Transition of the Chinese social security system. International Social Security Review, Vol. 59, 2/2006, 61–76.
-	* Merkulova, T.V.: Ekonomitsheskij rost i neravenstvo: institutsionalnyj aspect I modelirovanie vzaimosvjazi. Mir Rossii Vol. 19, 59-77.
-	* OPFR: O sostojanii grazhdanskogo obshchestva v Rossiiskoi Federacii. Moskva: Obshchesvennaia palata Rossiiskoi Federacii 2008.
-	* Osadchaya, G.I.: L’goty v kontekste reformirovaniya socialnoj politiki. Sotsiolgicheskie issledobaniya 2006/11, 38-42.
-	* Petuhov, V.V.: Ot monetizatsiya l’got k natsionalnym projektam. Sotsiolgicheskie issledobaniya 2006/12, 22-27.
-	* Pickvance, C.: State socialism post-socialism and their urban patterns: theorizing the Central and Eastern Europena Experience, In Eale J. & C. Mele (Eds.) Understanding the City. Oxford, Blackwell 2002, 183–203.
-	* Radaev, V.V.: Obytshnye in innovatsionnie praktiki. In T.M. Maleva (Ed.): Srednie klassi v Rossii: ekonomitsheskie i sotsialnye strategii. Gendal’f 2003.
-	* Remington, Thomas F.: The Politics of Inequality in Russia. New York, Cambridge UP 2011.
-	* Ruoppila, Sampo: Residential Differentiation, Housing Policy and Urban Planning in the Transformation from State Socialism to a Market Economy: The Case of Tallinn. Espoo 2006, Helsinki University of Technology, Centre for Urban and Regional Studies.
-	* Sakwa, Richard: Putin Russia’s Choice. Routledge 2004.
-	* Sakwa, Richard: Russian Politics and Society. Routledge 2008.
-	* Shkaratan, O.I.: Vozproizvodstvo sotsialno-ekonomitsheskogo neravenstva v postsovetskoj Rossii: dinamika urovna zhizni i polozenie sotsialnyh nizov. Mir Rossii, Vol. 17, 2008/4, 60-89.
-	* Shkaratan, O.I. & S.A. Injasevskij & T.S. Ljubimova: Novyj srednij klass i informatsional’nye na rossijskom rynke truda. Obchshestvennye nauki i sovremennost’, 2008/1.
-	* Shorrocks, Anthony & Stanislav Kolenikov Poverty Trends in Russia during Transition, Wider Institute, Helsinki 2001.
-	* Sutela, Pekka: The Economic Future of Russia.  International Journal of Economic Policy in Emerging Economies 2007/1,  21–33.
-	* Sutela, Pekka: The Political Economy of Putin’s Russia. London and New York, Routledge 2012.
-	* Szelenyi, Iván: Urban Inequalities under State Socialism. New York, Oxford University Press 1983.
-	* Tuomi, Marja: Diffusion of Social Innovations Across the Borders. Social Sector Cooperation with the Republic of Karelia. Publications of the University of Eastern Finland. Dissertations in Social Sciences and Business Studies No 33
-	* UNDP: Human Development Report 2010. The Real Wealth of Nations: Pathways to Human Development. United Nations Development Programme. Palgrave Macmillan. New York.
-	* UNDP: National Human Development Report for the Russian Federation 2011: Modernisation and Human Development, Moscow, UNDP Russia.
-	* Vihavainen, Rosa: Homeowners’ Associations in Russia after the 2005 Housing Reform. Helsinki, Kikimora Publications 2009.
-	* Vishnevsky, A.: Sberezhenie naroda ili depopulyatsiya Rossiya?Moskva, Izdatelskij dom Gosudarstvennogo universiteta Vyshey shkolu ekonomiki 2010.
-	* Williamson, John B. & Stephanie A. Howling & Michele L. Maroto: The political economy of Pension reform in Russia: Why partial privatisation? Journal of Aging Studies, Vol. 20, 2006, 165–175.
-	* The World Bank: The World Bank in Russia: Russian Economic Report 18, Mach 2009, 17–22.
-
+- Anderson, Barbara A. & Brian D. Silver. The Changing Shape of Soviet Mortality, 1958–1985: An Evaluation of Old and New Evidence. Population Studies, Vol. 43/1989,  243–65. 
+- Aspalter, Christian:  New Developments in the Theory of Comparative Social Policy. Journal of Comparative Social Welfare Vol. 1, 2006/1, 3–22. 
+- Cerami, Alfio: Socio-Economic Transformations in Post-Communist Countries: Central and Eastern Europe and Russia Compared. Romanian Journal of Political Science, Vol. 9 No. 1, 2009 (http:///www.sar.org.ro/polsci/), (2009a)
+- Cerami, Alfio: Welfare State Developments in the Russian Federation: Oil-Led Social Policy and ‘The Russian Miracle’. Social Policy & Administration, Vol.43 no. 2, 105–120, (2009b) 
+- Clarke, Simon: The contradictions of ‘state socialism’. In Simon Clarke et al.: What about the Workers. Workers and the Transition to Capitalism in Russia. Edgar Elgar 1993.
+- Clarke, Simon: Post-socialist trade unions: China and Russia. Industrial Relations Journal, Vol. 36, 2005/1, 2–18.
+- Cook, Linda J.: Postcommunist Welfare states: Reform Politics in Russia and Eastern Europe. Cornell UP 2007. 
+- Cooper, Julian: Reviewing Russian Strategic Planning. The Emergence of Strategy 2020. Nato Defence College Research Division 2012.
+- De Silva, M.O & G. Kurlyanskaya & E. Andreeva & N. Golovanova: Intergovernmental Reforms in the Russian Federation: One Step Forward, Two Steps Back? Washington, DC: The World Bank.
+- Feshbach, Murray: Between the Lines of the 1979 Soviet Census. In Problems of Communism, January 1982, pp. 27–37.
+- Gaidar, Yegor: Vlast i sobstvennost; Smuty i instituty; Gosudarstvo i evolutsiya. Sankt-Peterburg, Norma 2009.
+- Gaman-Golutvina, Oxana: The Changing Role of the State and State Bureaucracy in the Context of Public Administration Reforms: Russian and Foreign Experience. In Anton Oleinik (ed.): Reforming the State without Changing the Model of Power? Routledge 2009.
+- Geroimenko, Vladimir, A. & Grigori A. Klucharev & John W. Morgan: Private Higher Education in Russia: Capacity for Innovation and Investment.European Journal of Education, Vol. 47, No 1, 2012
+- Golovljanitsina, E.B.: Innovatsionen li rossijskij srednij klass? Osobennosti professional’noj struktury i trudovyh tsennostej srednego klassa nakanune krizisa. Mir Rossii, Vol. 18, 2009/4, 19-36.
+- Gorshkov, M.G. (et al.): Srednij klass v sovremennom Rossiiskom obschestve. Moscow 1999.
+- Gorshkov, M.G. (et al.) (Ed.): Srednij klass v sovremennoj Rossii. Institut sotsiologii RAN 2008.
+- Gorshkov, M.G.: Rossijskoe obschestvo v sotsiologitsheskom izmerenii. Mir Rossii, Vol. 18, 2009/2, 3-21.
+- Grigoriev, Leonid & Maleva, Tatyana: Srednii klass v sovremennom rossiiskom obshchestve. Voprosy ekonomiki 2001/1, 40-50.
+- Hughes, M.C.: Smashing the iron bowl. Foreign Affairs, Vol. 77, 1998/4.
+- Kivinen, Markku: Classes in the Making. Russian Class Structure in Transition. In Göran Therborn (ed.): Inequalities of the World. Verso 2007, 247-294.
+- Kivinen, Markku & Chunling Li: The Free-Market State or the Welfare State. In Christer Pursiainen (Ed.): At the Crossroads of Post-Communist Transition: Comparative Analysis of Russia and China, Palgrave Macmillan 2012 (forthcoming).
+- Korpi, Walter: The Democratic Class Struggle. Routledge and Kegan Paul 1983.
+- Kulmala, Meri: Russian Society. In: Russia of Challenges, Helsinki, Ministry of Defence 2007, 9–31.
+- Lin, Ka & Kangas Olli: Social Policymaking and its institutional basis: Transition of the Chinese social security system. International Social Security Review, Vol. 59, 2/2006, 61–76.
+- Merkulova, T.V.: Ekonomitsheskij rost i neravenstvo: institutsionalnyj aspect I modelirovanie vzaimosvjazi. Mir Rossii Vol. 19, 59-77.
+- OPFR: O sostojanii grazhdanskogo obshchestva v Rossiiskoi Federacii. Moskva: Obshchesvennaia palata Rossiiskoi Federacii 2008.
+- Osadchaya, G.I.: L’goty v kontekste reformirovaniya socialnoj politiki. Sotsiolgicheskie issledobaniya 2006/11, 38-42.
+- Petuhov, V.V.: Ot monetizatsiya l’got k natsionalnym projektam. Sotsiolgicheskie issledobaniya 2006/12, 22-27.
+- Pickvance, C.: State socialism post-socialism and their urban patterns: theorizing the Central and Eastern Europena Experience, In Eale J. & C. Mele (Eds.) Understanding the City. Oxford, Blackwell 2002, 183–203.
+- Radaev, V.V.: Obytshnye in innovatsionnie praktiki. In T.M. Maleva (Ed.): Srednie klassi v Rossii: ekonomitsheskie i sotsialnye strategii. Gendal’f 2003.
+- Remington, Thomas F.: The Politics of Inequality in Russia. New York, Cambridge UP 2011.
+- Ruoppila, Sampo: Residential Differentiation, Housing Policy and Urban Planning in the Transformation from State Socialism to a Market Economy: The Case of Tallinn. Espoo 2006, Helsinki University of Technology, Centre for Urban and Regional Studies.
+- Sakwa, Richard: Putin Russia’s Choice. Routledge 2004.
+- Sakwa, Richard: Russian Politics and Society. Routledge 2008.
+- Shkaratan, O.I.: Vozproizvodstvo sotsialno-ekonomitsheskogo neravenstva v postsovetskoj Rossii: dinamika urovna zhizni i polozenie sotsialnyh nizov. Mir Rossii, Vol. 17, 2008/4, 60-89.
+- Shkaratan, O.I. & S.A. Injasevskij & T.S. Ljubimova: Novyj srednij klass i informatsional’nye na rossijskom rynke truda. Obchshestvennye nauki i sovremennost’, 2008/1.
+- Shorrocks, Anthony & Stanislav Kolenikov Poverty Trends in Russia during Transition, Wider Institute, Helsinki 2001.
+- Sutela, Pekka: The Economic Future of Russia.  International Journal of Economic Policy in Emerging Economies 2007/1,  21–33.
+- Sutela, Pekka: The Political Economy of Putin’s Russia. London and New York, Routledge 2012.
+- Szelenyi, Iván: Urban Inequalities under State Socialism. New York, Oxford University Press 1983.
+- Tuomi, Marja: Diffusion of Social Innovations Across the Borders. Social Sector Cooperation with the Republic of Karelia. Publications of the University of Eastern Finland. Dissertations in Social Sciences and Business Studies No 33
+- UNDP: Human Development Report 2010. The Real Wealth of Nations: Pathways to Human Development. United Nations Development Programme. Palgrave Macmillan. New York.
+- UNDP: National Human Development Report for the Russian Federation 2011: Modernisation and Human Development, Moscow, UNDP Russia.
+- Vihavainen, Rosa: Homeowners’ Associations in Russia after the 2005 Housing Reform. Helsinki, Kikimora Publications 2009.
+- Vishnevsky, A.: Sberezhenie naroda ili depopulyatsiya Rossiya?Moskva, Izdatelskij dom Gosudarstvennogo universiteta Vyshey shkolu ekonomiki 2010.
+- Williamson, John B. & Stephanie A. Howling & Michele L. Maroto: The political economy of Pension reform in Russia: Why partial privatisation? Journal of Aging Studies, Vol. 20, 2006, 165–175.
+- The World Bank: The World Bank in Russia: Russian Economic Report 18, Mach 2009, 17–22.
+- 
 
 
 <!--***********************************************************
 ******************    ALAVIITTEET ALKAA   *********************
 *********************************************************** -->
-[^1]  Russia had one of the most severe contraction among G20 countries in  2009 (Sutela 2012). However, the Russian economy has been recovering  from the crisis rapidly and Russia’s fiscal situation is still among the  best of the world (Kivinen, forthcoming).
-[^2]  Though, in practice, most prominent economic growth and consequent  reforms took place under Medvedev’s presidency. According to Cerami  (2009), it was under the executive of Medvedev when social interests  became a priority for the first time, by combining strong liberalization  efforts with social awareness (also Sutela 2012, 199).
-[^3]  In the beginning of 2014, a Stabilization Fund was established to  balance the federal budget in a case of cut-off in oil prices. The  stabilization fund grew from 18.9 billion $ of 2004 to 156.8 billion $  in 2007 (Cerami 2009, 112). 
-[^4] Generally,  the Russian state has largely acknowledged a need for certain types of  civil society organizations, such as social service providers, that  serve state interests, while the activities of others, such as human  rights organizations, are being disrupted. Zdravomyslova (2005, 204)  labeled such a dualism as selective corporatism. 
+[^1]:  Russia had one of the most severe contraction among G20 countries in  2009 (Sutela 2012). However, the Russian economy has been recovering  from the crisis rapidly and Russia’s fiscal situation is still among the  best of the world (Kivinen, forthcoming).
+[^2]:  Though, in practice, most prominent economic growth and consequent  reforms took place under Medvedev’s presidency. According to Cerami  (2009), it was under the executive of Medvedev when social interests  became a priority for the first time, by combining strong liberalization  efforts with social awareness (also Sutela 2012, 199).
+[^3]:  In the beginning of 2014, a Stabilization Fund was established to  balance the federal budget in a case of cut-off in oil prices. The  stabilization fund grew from 18.9 billion $ of 2004 to 156.8 billion $  in 2007 (Cerami 2009, 112). 
+[^4]: Generally,  the Russian state has largely acknowledged a need for certain types of  civil society organizations, such as social service providers, that  serve state interests, while the activities of others, such as human  rights organizations, are being disrupted. Zdravomyslova (2005, 204)  labeled such a dualism as selective corporatism. 
 
 TÄSSÄ VÄLISSÄ ON "NO POLITICAL WILL" JAKSO (JOSKIN JÄRJESTYSTÄ PITÄÄ MIETTIÄ!!!) ENKÄ TIEDÄ ONKO SIINÄ ALAVIITTEITÄ, JOTEN NUMEROINTI SAATTAA MENNÄ SEKAISIN 
 
-[^5] The  combination of the low birth rate and low life expectancy (especially of  Russian men) has led to unequaled depopulation. Male life expectancy  had fallen from 68 years in 1990 to 60 years in 2002, a far more severe  decline than in any other industrialized country in peacetime. The  official goal has been to stabilize the population near its present  level, from 140 million to 142 million by 2015, and to create conditions  for growth to 145 million by 2025. (Cook 2011, 22). 
-[^6] The  maternity capital was proudly introduced as the core element of a set of  ideological and institutional arrangements, aimed at encouraging women  to give birth to more children, as discussed above. According to the  program any woman who has given birth to a second (or a subsequent  child) after January 1, 2007 receives a certificate for a substantial  amount of money, originally 250,000 Rubles, which is to be spent on  purposes predefined by the policymakers. After the second child has  reached the age of three, the mother (or in some cases another  caretaker) can use the maternity capital in three different ways: to  improve living conditions, to invest in the education of the children,  or to invest in the mother’s pension. In 2012 the maternity capital was  indexed to 387,640 rubles (approx. 12,000 USD), which was equivalent to  14.5 average monthly salaries in Russia. In 2008-2010, due to criticism  and the global financial crisis, some amendments were made. First,  families were allowed to use the capital to shorten the housing mortgage  immediately after the birth of the second child. Second, mothers were  entitled to immediately receive 12,000 rubles of the maternity capital.  Third, fathers received the right to use the benefit to improve their  living conditions if the housing mortgage was in their name and they  were living in a registered marriage with a woman entitled to the  maternity capital. (Borodina et al. 2014.) Now when writing this (in  April 2014), the maternity capital is again under consideration.  Perhaps, in the future it can be used only to housing related costs,  since the capital has been almost entirely spent on such purposes (see  e.g. Izvestiia, February 10, 2014; http://www.pfrf.ru/family_capital/).
-[^7] 1] The  on-going reform builds on two primary federal-level documents. Firstly,  the president has authorized a National Action Strategy for Promoting  Child Interests for 2012-2017, which has been complemented by the  federal program of “Russia without Orphans” for 2013-2020. 
+[^5:] The  combination of the low birth rate and low life expectancy (especially of  Russian men) has led to unequaled depopulation. Male life expectancy  had fallen from 68 years in 1990 to 60 years in 2002, a far more severe  decline than in any other industrialized country in peacetime. The  official goal has been to stabilize the population near its present  level, from 140 million to 142 million by 2015, and to create conditions  for growth to 145 million by 2025. (Cook 2011, 22). 
+[^6]: The  maternity capital was proudly introduced as the core element of a set of  ideological and institutional arrangements, aimed at encouraging women  to give birth to more children, as discussed above. According to the  program any woman who has given birth to a second (or a subsequent  child) after January 1, 2007 receives a certificate for a substantial  amount of money, originally 250,000 Rubles, which is to be spent on  purposes predefined by the policymakers. After the second child has  reached the age of three, the mother (or in some cases another  caretaker) can use the maternity capital in three different ways: to  improve living conditions, to invest in the education of the children,  or to invest in the mother’s pension. In 2012 the maternity capital was  indexed to 387,640 rubles (approx. 12,000 USD), which was equivalent to  14.5 average monthly salaries in Russia. In 2008-2010, due to criticism  and the global financial crisis, some amendments were made. First,  families were allowed to use the capital to shorten the housing mortgage  immediately after the birth of the second child. Second, mothers were  entitled to immediately receive 12,000 rubles of the maternity capital.  Third, fathers received the right to use the benefit to improve their  living conditions if the housing mortgage was in their name and they  were living in a registered marriage with a woman entitled to the  maternity capital. (Borodina et al. 2014.) Now when writing this (in  April 2014), the maternity capital is again under consideration.  Perhaps, in the future it can be used only to housing related costs,  since the capital has been almost entirely spent on such purposes (see  e.g. Izvestiia, February 10, 2014; http://www.pfrf.ru/family_capital/).
+[^7]: 1] The  on-going reform builds on two primary federal-level documents. Firstly,  the president has authorized a National Action Strategy for Promoting  Child Interests for 2012-2017, which has been complemented by the  federal program of “Russia without Orphans” for 2013-2020. 
 
 VÄLISSÄ MUIDEN KUIN MERIN PÄTKIÄ ELI EN TIEDÄ, MITEN ALAVIITTEIDEN NUMEROINTI MENEE
 
-[^8] See details in Health Systems in Transition (2003); Cook (2007). 
-[^9] See for concrete examples of such organizations in Kulmala 2013, 90-92). 
-[^10]  See for instance Chapter 7 in Kulmala 2013, which analyzes the  activities of the the Sortavala Social Service Center, which is a  municipal center but provides mainly, but not exclusively, services that  are at the regional-level responsibility. 
+[^8]: See details in Health Systems in Transition (2003); Cook (2007). 
+[^9]: See for concrete examples of such organizations in Kulmala 2013, 90-92). 
+[^10]:  See for instance Chapter 7 in Kulmala 2013, which analyzes the  activities of the the Sortavala Social Service Center, which is a  municipal center but provides mainly, but not exclusively, services that  are at the regional-level responsibility. 
 
 
 [^7]: The actual rise in overall expenditure (132 per cent from 2005 to 2009) has been bigger than in the rise in budgeted welfare (125 per cent) (Kivinen, forthcoming; Sutela 2012, 201). Sutela (2012, 202) showed that other social expenditure than pensions declined in 2008-2009. Sutela (2012, 206), also pointed out that the budget funds given to these socially oriented priority projects was only less than 8 per cent of other spending planned for these sectors. 
