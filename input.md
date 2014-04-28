@@ -66,6 +66,8 @@ All in all, the fiscal conservatism of Russian economic policy (cf. Sutela 2007 
 
 Economic reform had been the key priority in president Putin’s first term. In 2006, Dmitry Medvedev argued that Russia was already another country. Political and economic stability had been secured and the country was able to start working for the future. The power vertical was in place, and rising export revenues with more effectively working taxation instruments would give Russia a possibility to use state resources to face the social crisis. ‘National priority projects’ in health, education and housing were established and they were allocated a budget equivalent to about USD 7.6 billion. The projects were managed by a specially established presidential council with high level participants and with the intention to overcome too strict barriers between administrative branches. The council was presided over by Medvedev, who soon became the First Deputy Prime Minister, and since 2008 the President of Russia. The projects were meant to be limited in time but they should get issues on these fronts moving.  In fact, the budget resources given to the programmes were no more than eight percent of spending planned for these sectors. However, in his inauguration speech President Medvedev already underlined that the programmes had proven their worth. They were made normal parts of the budget process, but they are often still referred to as specific programmes.   
 
+\newpage
+
 Table:. Expenditure for social functions by tier of government as a percentage of total expenditure, 2006
 
 | Federal | Regional | Local |
@@ -80,35 +82,56 @@ Table:. Expenditure for social functions by tier of government as a percentage o
 
 It is not easy to judge how systematic and significant the role of national priority projects in fact has been. Cerami has presented evidence based on the Ministry of Finance's 2008 federal budget framework until 2010. It forecasted a 48 percent increase for social expenditure. Pekka Sutela (2012, 200–201) has pointed out that the budget grew overall larger, and inflation increased beyond expectations. Consequently, nominal values would not be the most relevant indicator. Therefore, one should preferably look at percentage distribution and compare the actual outcome with the framework. It should be observed also that a lot of welfare expenditure is not decided at the federal level (Table 4). As the information for the available year 2006 shows, half of public education is funded by local budgets and most public money for health is channelled via the regional level. Housing is almost not a federal issue at all, while social welfare expenditure is overwhelmingly federal (Sutela 2012, 200–202). On the other hand, budget transfers from the federation to the regional and local levels should also be taken into account. Using the Bank of Finland Economies of Transition unit’s calculations prepared by Vesa Korhonen, Sutela has constructed the actual consolidated budget expenditure by calculating the expenditure of the federal, regional and local levels as well as expenditure from extra-budgetary funds. In Table 5, dated calculations, prepared for this article by Vesa Korhonen, are presented. Table 6 shows the subcategories of social security in social expenditure. In the light of these tables, the ‘Russian miracle’ is not evident at all. In actual fact, the rise in budgeted welfare was a lot from 2005 to 2009 (125 percent); however, the relative share was not growing and the actual rise at the same time in all expenditure was even more comprehensive (132 percent).
 
-Table: Social expenditure as a share of all consolidated budget expenditure, 2005–2009, (%)
+\newpage
 
-| heading | heading |
-| ------  | -------- |
-| cell | cell |
-| cell | cell |
-| cell | cell |
+Table: Social expenditure as a share of all consolidated budget expenditure, 2005–2009, (Billions of roubles (percentage))
+
+
+----------------------------------------------------------------------------------------------------------
+       Total              Housing &                                     Health care, 
+                          communal utilities  Education     Culture     physical culture and sports  Social security
+-----  --------           --------------      ---------     -------     --------------------------   -------------
+2005   6821(100)          471(6.9)            802(11.8)     86(1.3)     797(11.7)                    1889(27.7)
+2006   8375(100)          632(7.5)            1036(12.4)    130(1.6)    962(11.5)                    2359(28.2)
+2007   11379(100)         1102(9.7)           1343(11.8)    172(1.5)    1382(12.1)                   2852(25.1)
+2008   13992(100)         153(8.2)            1664(11.9)    219(1.6)    1546(11.1)                   3766(26.9)
+2009   16048(100)         1006(6.3)           1778(11.1)    222(1.4)    1653(10.3)                   4546(28.3)
+2010   17617(100)         1071(6.1)           1894(10.8)    238(1.4)    1709(10.8)                   6178(35.1)
+2011   19995(100)         1195(6.0)           2232(11.2)    277(1.4)    2096(11.2)                   6512(32.6)
+-----------------------------------------------------------------------------------------------------------
+
 
 Perhaps the most striking result in Table 5 is that the relative shares of social expenditure categories remain almost the same during the years of the new emphasis on social policy. There is a significant increase in social security and Table 6 shows that this concerns mainly pensions and family and childhood protection. Housing has a pro-cyclical pattern. In the crisis year 2009, the share of social expenditure other than pensions declined rather steeply.
 
 All this seems to lead to the conclusion that in spite of the economic recovery and increased budgetary resources, the Russian miracle in social policy might still be an overstatement.  Seen in the context of particular social problems and institutional settings, the situation is still rather gloomy. This can be seen in a more detailed analysis concerning housing, education, health and pensions (Kivinen 2014 forthcoming). Especially the analysis of pension development shows the complexity of political agency in contemporary Russian social policy.
 
+\newpage
 
-Table: Subcategories of social security in social expenditure
+Table: Subcategories of social security in social expenditure. Billions of roubles (percentage)
 
-| heading | heading |
-| ------  | -------- |
-| cell | cell |
-| cell | cell |
-| cell | cell |
+---------------------------------------------------------------------------------------
+      Social      Pensions    Other than    Social    Social     Family &     Other issues 
+      security                pensions      services  welfare    childhood
+                                                                  protection  
+----- --------    ----------  ---------     -------   ---------  ----------   -------------
+2005  1889(27.7)  1421(20.8)  469(6.9)      94(1.4)   269(3.9)   11(0.2)      95(1.4)
+2006  2359(28.2)  1678(20.0)  681(8.1)      118(1.4)  490(5.9)   14(0.2)      60(0.7)
+2007  2852(25.1)  1948(17.1)  904(7.9)      148(1.3)  646(5.7)   20(0.2)      90(0.8)
+2008  3766(26.9)  2578(18.4)  1189(8.5)     190(1.4)  919(6.6)   37(0.3)      42(0.3)
+2009  4546(28.3)  3235(20.2)  1311(8.2)     230(1.4)  989(6.2)   47(0.3)      45(0.3)
+2010  6178(35.1)  4436(25.2)  1742(9.9)     260(1.5)  1383(7.9)  51(0.3)      47(0.3)
+2011  6512(32.6)  4380(21.9)  2133(10.7)    293(1.5)  1308(6.5)  241(1.2)     290(1.5)
+---------------------------------------------------------------------------------------
+
 
 The Russian population is ageing rapidly and this implies a rising dependency ratio, especially because the retirement age is low (60 for men and 55 for women). During the next twenty years the number of pensioners is going to increase by ten million, whereas the working population will decline by eleven million. Already by 2020 there will be around 800 retired persons for every 1,000 working age citizens. This seems to indicate a pressure to increase the age of retirement.
 
 
-![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
+![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](http://russianmodernisation.fi/filemanager/files/demokratizatsiya/kuva_markku1.png)
 
 *Source: Rosstat 2012*
 
-![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
+![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](http://russianmodernisation.fi/filemanager/files/demokratizatsiya/kuva_markku2.png)
 
 *Source: Rosstat 2012*
 
@@ -166,6 +189,7 @@ Huom! Myös äitiyden tukeminen yms on niitä alueita, jonne NGOt saa rahaa…
 ###The Yeltsin reforms 
 
 The early years of post-socialist Russia was characterized by constant economic turmoil, rapidly eroding well-being of population and efforts to reform the economy. According to Maltseva (2012, 229) Yeltsin’s government was maneuvering between demands of western economic institutions and domestic popular protests and political forces. One of the key aims of Gaidar’s economic reform was to balance budget and the government strived to minimize government spending on welfare and invest all efforts in boosting the economic growth, which eventually would yield fruits also to welfare. Government’s share in welfare provision was supposed to decrease from 53 % to 40 % within next three years period (1992-1994) and the social security would change more to targeted provision of services for those who really need. Third element in the reform was the transfer of financial responsibilities from federal state to regions and local governments to mitigate deepening budget deficit. (Maltseva 2012, 231)  The result was rapid increase of share of local and regional administration in the financing the welfare and corresponding decrease of federal public spending from 23.4 % of GDP to mere 18.6 % between 1992-1994. (Treisman 1999; quoted from Maltseva 2012, 231). The regional and local authorities were not able to collect taxes and on the other hand federal government could not provide them necessary transfers. The government transferred a number of funds from being funded by the budget to off-budget funds, mainly from employers’ social insurance contributions. In response to the sky-rocketing inflation, collapse of welfare systems and mounting poverty government took steps to recentralize system of transfers. However, as Maltseva notes, also this effort turned out to be inefficient, prone to manipulation by regional administrations and inciting overspending. Yeltsin’s administration was incarcerated by the regional governors because they had been granted very large autonomy in first years of transition and Yeltsin needed their support. On the other side was the necessity to make radical reforms in order to prevent complete collapse of the Russian economy.  This resulted in number of haphazard efforts to reform and concessions to regional authorities. According to Maltseva this nurtured informal negotiations and relationships between the government and regional governors and eventual undermining of institutional mechanisms of control and even the legitimacy of federal government in the eyes of regional governors.  The consequences of the neo-liberal reforms instigated growing protests among the political parties in the parliament and led to unprecedented unity across the political spectrum – from Communist party to Union of Industrialists. The threat of losing Presidential elections forced Yeltsin to slow down the economic reform and distance himself from the Gaidar’s reform group. Yeltsin rejected Zyuganov’s demand to restore the price controls of wages and prices, but “ he embraced many elements of the Communists’ social welfare program”. (Maltseva 2012, 261) The government raised pensions and wages and reduced the wage arrears. In a way then, Yeltsin bought his victory in1996 Presidential elections with generous welfare spending; something that his government set out to reduce into minimum just few years before. Maltseva notes that “many of the Yeltsin’s welfare initiatives did not fit with the logic of liberal economic reforms and contributed nothing to the development of comprehensive antipoverty and targeted social-assistance programs.” (2012, 265) Instead the government adopted the strategy of expanding the soviet-type system of social privileges to various groups of population. In an effort to mitigate the social and economic consequences of looming economic crises during 1997-1998, the government tried to reverse some of the previous decisions in welfare reform.  Among the proposals were cuts in the spending and measures to cut back the Soviet-era welfare benefits. However, all efforts were rejected by the Duma. In January 1998 the government published its plans of reform of the welfare system, with the emphasis on targeted social assistance, abolishment of entitlement benefits and replacement of these with means-tested benefits. Maltseva’s evaluation of the welfare reform in 1990’s is harsh, according to her instead of reforming the system the “government designed ad hoc and often populist social welfare policies that, instead of contracting the costly welfare system, expanded it. By the end of the 1990s, more than two-thirds of Russia’s 148 million people were entitled to various kinds of social privileges. According to various accounts, by 1999, there were over 150 types of social protection covering 236 categories of the population at the federal level alone.” The problems of welfare system were complex and difficult to overcome, the system was not transparent, flexible, equal or economically sustainable.  An indication of how socially distorted the welfare system was is the fact that almost half (49.5 %) of the housing-related benefits went to non-poor households and only 28.5 % of poor households received these benefits.
+
 According to Maltseva, there were three large groups of welfare recipients in the end of 1990’s: (1) deserving disadvantaged (e.g. orphans, disabled), (2) privileged groups (e.g. labor heroes, veterans of war) and (3) public servants (e.g. members of military, security services and judges). According to Cook (2007) Russia’s welfare reform during Yeltsin period produced a “spontaneously privatized system of welfare” which became more informalized and corrupted, leading to increasing disparities and restrictions of access.  
  
 ## Putin’s reforms of welfare
@@ -211,6 +235,53 @@ Levada-center asked also whether people would prefer to have free education and 
 According to SDMR the share favoring state-run services over others in the child-care services the declined from 66 % in 1999 to 43 % in 2007. There was a clear growth of support for services organized by the citizens themselves, while the private services got only a fraction of support in both years. Both in 1999 and 2007 30 - 40 % of Russians said that local administrations should organize leisure services them and between 18- 35 % said that it is the duty of the state. The share of those who favored private enterprises remained under 20 % in both years.
 
 So, the picture is clear: most Russians are quite unsatisfied with the quality of services in health-care or education and most of them do not trust them very much but still most of them want state to be responsible for their organization, not private companies or citizens themselves.  People believe that the state-organized welfare services guarantee social equality better than the private services, even if the quality of public services is mediocre to private.  One indication for the valuation of more equal and universal welfare is the fact that 63 % of Russians think that it is rather or very unfair that people with higher incomes can get better education for their children or that 67 % of them see it unfair if more wealthy people can get better health-care services for themselves. On the other hand, 72 % of Russians were unwilling to pay more taxes for the improvement of health-care.
+
+\newpage
+
+\begin{table}[htbp]
+\caption{caption here}
+\begin{tabular}{lcccccccccc}
+\toprule
+ & 2003 & 2004 & 2005 & 2006 & 2007 & 2008 & 2009 & 2010 & 2011 & 2012 \\ 
+\multicolumn{1}{c}{} & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & IX  \\ 
+\midrule
+Definitely yes  & 2 & 3 & 2 & 2 & 3 & 2 & 3 & 2 & 1 & 1 \\ 
+Yes, rather than no  & 9 & 11 & 9 & 10 & 14 & 13 & 15 & 13 & 14 & 15 \\ 
+Neither yes, nor no  & 23 & 20 & 21 & 19 & 21 & 20 & 23 & 22 & 22 & 22 \\ 
+No, rather than yes  & 39 & 36 & 36 & 36 & 34 & 36 & 36 & 35 & 37 & 33 \\ 
+Definitely no  & 23 & 29 & 29 & 32 & 26 & 27 & 22 & 25 & 22 & 24 \\ 
+Difficult to answer  & 4 & 2 & 3 & 2 & 2 & 3 & 1 & 4 & 4 & 4 \\ 
+\bottomrule
+\end{tabular}
+\label{}
+\end{table}
+
+*Source: Levada Center 2014*
+
+
+
+\begin{table}[htbp]
+\caption{Who should run the following services?}
+\begin{tabular}{lllllll}
+\toprule
+ & \multicolumn{ 2}{c}{Child Care} & \multicolumn{ 2}{c}{Elderly} & \multicolumn{ 2}{c}{Medical care} \\ 
+ & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} \\ 
+ \midrule
+State & 66.4 & 42.8 & 77.4 & 55.7 & 76.4 & 60.5 \\ 
+Regional authorities & 2.8 & 6.1 & 4.2 & 8.4 & 4.6 & 15.0 \\ 
+Local authorities  & 7.2 & 9.1 & 9.3 & 14.1 & 11.3 & 18.6 \\ 
+Private enterprises & 0.3 & 0.5 & 0.8 & 0.6 & 2.2 & 0.9 \\ 
+Citizens & 18.8 & 36.7 & 5.4 & 16.2 & 1.4 & 0.1 \\ 
+Hard to say & 4.5 & 4.8 & 2.9 & 5.0 & 4.1 & 4.9 \\ 
+TOTAL & 100.0 & 100.0 & 100.0 & 100.0 & 100.0 & 100.0 \\ 
+\bottomrule
+\end{tabular}
+\label{}
+\end{table}
+
+*Source: Distinctions in Modern Russia-surveys 1999/2007*
+
+
 
 In  the end, neither the government has totally abandoned the principles of  state provision in the social field nor have the Russian citizens  changed their expectations towards the state. In the middle of the  described, often controversial state policies, the liberal idea of an  individually based social responsibility has never been widely accepted  among Russians. On the contrary, the social welfare norms established by  the Soviet socialism still largely retain (Collier 2001, 3) and Russian  citizens still expect the state act as a main provider of social  welfare (Henry 2009; Kulmala 2013).[^2.81]
 
@@ -268,6 +339,7 @@ In other words, the most evident flaw in the local implementation seems to be th
 - New questions to be asked     
 
 
+
 # References
 
 - Anderson, Barbara A. & Brian D. Silver. The Changing Shape of Soviet Mortality, 1958–1985: An Evaluation of Old and New Evidence. Population Studies, Vol. 43/1989,  243–65. 
@@ -276,7 +348,7 @@ In other words, the most evident flaw in the local implementation seems to be th
  - Cerami, Alfio: Socio-Economic Transformations in Post-Communist Countries: Central and Eastern Europe and Russia Compared. Romanian Journal of Political Science, Vol. 9 No. 1, 2009 (http:///www.sar.org.ro/polsci/), (2009a)
 - Cerami, Alfio: Welfare State Developments in the Russian Federation: Oil-Led Social Policy and ‘The Russian Miracle’. Social Policy & Administration, Vol.43 no. 2, 105–120, (2009b) 
 Chernova 2010
-- Clarke, Simon: The contradictions of ‘state socialism’. In Simon Clarke et al.: What about the Workers. Workers and the Transition to Capitalism in Russia. Edgar Elgar 1993.
+- Clarke, Simon: The contradictions of ‘state socialism’. In Simon Clarke et al.: What about the Workers. Workers and the Transition to Capitalism in Russia. Edgar Elgar 1993.
 - Clarke, Simon: Post-socialist trade unions: China and Russia. Industrial Relations Journal, Vol. 36, 2005/1, 2–18.
 - Collier, Stephen J (2011): Post-Soviet Social: Neoliberalism, Social Modernity, Biopolitics. Princeton: Princeton University Press.
 - Cook, Linda J.: Postcommunist Welfare states: Reform Politics in Russia and Eastern Europe. Cornell UP 2007. 
