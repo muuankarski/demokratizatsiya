@@ -22,7 +22,7 @@ After the collapse of the communist regime, Russian welfare structures have been
 Hence, we have seen many welfare related questions taking a top position on the agenda of the Russian federal government as well as concrete investments in welfare since 2005. At the same time, poverty rates considerably declined and rapidly growing inequality stabilized (Kivinen, forthcoming).  Yet, the overall picture does not look that promising that one would assume after such substantial attention. 
 
 
-![File from thegadget](http://www.russianmodernisation.fi/filemanager/files/demokratizatsiya/varx_wdi_gdpc_vary_undp_hdi2014-03-12%2009:13:20.png)
+![File from thegadget](figure/eka_kuva.png)
 
 `Kuvion kuvaus ts. oikea kuvio on vähän skarpimpi`
 
@@ -127,11 +127,11 @@ Table: Subcategories of social security in social expenditure. Billions of roubl
 The Russian population is ageing rapidly and this implies a rising dependency ratio, especially because the retirement age is low (60 for men and 55 for women). During the next twenty years the number of pensioners is going to increase by ten million, whereas the working population will decline by eleven million. Already by 2020 there will be around 800 retired persons for every 1,000 working age citizens. This seems to indicate a pressure to increase the age of retirement.
 
 
-![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](http://russianmodernisation.fi/filemanager/files/demokratizatsiya/kuva_markku1.png)
+![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](figure/kuva_markku1.png)
 
 *Source: Rosstat 2012*
 
-![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](http://russianmodernisation.fi/filemanager/files/demokratizatsiya/kuva_markku2.png)
+![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](figure/kuva_markku2.png)
 
 *Source: Rosstat 2012*
 
