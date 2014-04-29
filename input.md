@@ -2,6 +2,15 @@
 % Kulmala Meri; Kivinen Markku; Nikula Jouko; Kainu Markus
 % April 29, 2014
 
+\thispagestyle{empty}
+
+\newpage
+
+\listoffigures
+
+\listoftables
+
+\thispagestyle{empty}
 
 \newpage
 
@@ -9,8 +18,12 @@
     
 *A severe demographic crisis emerged as a result of the Russian transition: a combination of the low birth rate and rise in rates of premature mortality (especially of Russian men) has led to a sharp decline in population. (Cook, 2011; Field, 1995) The old welfare regime seems to be rusting and there is evident need for new solutions. The issue of social justice (social citizenship) is now a central problem; while it was high on the Soviet agenda, but lost in the first times of transition. The creation of a new model of its welfare state is one of the most comprehensive and still very much unresolved strategic tasks of post-communist Russia. The Russian governments have since 1991relied on mixes of surviving Soviet practices, adoption of Western welfare policies, and ad hoc measures. Until lately the oil exports have produced a budget surplus that has been used for stabilizing the economy and providing more resources for social security. Further analysis is necessary to explain how, by whom, and to which priorities those resources have been channeled at the practical level. The current Russian welfare regime represents an informalized model where the state does not provide needed social protection, but improvised solutions are found by enterprises and individuals. In this article we study the interests and roles of different actors in formulation of welfare policies in Russia. We argue in the article that Russian welfare policy is oscillating between contradictory tendencies: between neoliberalism and state-based social policy, between individualisation of risks and strong administrative control and alternative, politically challenging grassroots services seem to have little space today.(see: Hemment, 2009). Therefore, we argue, the question of welfare model is in very fundamental sense also a question of democracy.*
 
+\thispagestyle{empty}
+
 \newpage
 
+\setcounter{page}{1}
+\pagenumbering{arabic}
 
 # Introduction
 
@@ -129,15 +142,14 @@ Table: Subcategories of social security in social expenditure. Billions of roubl
 The Russian population is ageing rapidly and this implies a rising dependency ratio, especially because the retirement age is low (60 for men and 55 for women). During the next twenty years the number of pensioners is going to increase by ten million, whereas the working population will decline by eleven million. Already by 2020 there will be around 800 retired persons for every 1,000 working age citizens. This seems to indicate a pressure to increase the age of retirement.
 
 
-![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010](figure/kuva_markku1.png)
+![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010 *Source: Rosstat 2012*](figure/kuva_markku1.png)
 
-*Source: Rosstat 2012*
 
-![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum](figure/kuva_markku2.png)
 
-*Source: Rosstat 2012*
+![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum *Source: Rosstat 2012*](figure/kuva_markku2.png)
 
-                                   
+
+
 As Figure 6 shows, a major increase in budget expenditure for pensions occurred in 2009 with the implementation of a new phase in pension reform. It is not clear whether this expenditure should be treated as an anti-crisis measure. At least the World Bank and the IMF usually treat additional pension payments as anti-crisis instruments. The pension reform seemed to make social payment the priority in the crisis period. Whether this is sustainable in the long run, taking into account the challenging population structure, remains to be seen.
 
 Christian Aspalter (2006, 4-7) argues that explanatory theories of social welfare may be characterised either as actor-based (conflict) theories, or structural (functional) theories. Actor-based theories suggest that it is the power and the programmes of different actors that are the key to the formation of welfare regimes. On the other hand, structural theories are apt to predict a convergence of social policies based on common structural determinants, such as the degree of economic development, urbanisation, modernisation or the advance of the capitalist market economy. There is not much evidence that the Russian development could be explained by these basic structural aspects. Our analysis here adheres to an action-based explanation. On the other hand, none of the actors are omnipotent and specific historical structures must be taken into account as well. 
@@ -190,7 +202,10 @@ Huom! Myös äitiyden tukeminen yms on niitä alueita, jonne NGOt saa rahaa…
 
 ###The Yeltsin reforms 
 
-The early years of post-socialist Russia was characterized by constant economic turmoil, rapidly eroding well-being of population and efforts to reform the economy. According to Maltseva (2012, 229) Yeltsin’s government was maneuvering between demands of western economic institutions and domestic popular protests and political forces. One of the key aims of Gaidar’s economic reform was to balance budget and the government strived to minimize government spending on welfare and invest all efforts in boosting the economic growth, which eventually would yield fruits also to welfare. Government’s share in welfare provision was supposed to decrease from 53 % to 40 % within next three years period (1992-1994) and the social security would change more to targeted provision of services for those who really need. Third element in the reform was the transfer of financial responsibilities from federal state to regions and local governments to mitigate deepening budget deficit. (Maltseva 2012, 231)  The result was rapid increase of share of local and regional administration in the financing the welfare and corresponding decrease of federal public spending from 23.4 % of GDP to mere 18.6 % between 1992-1994. (Treisman 1999; quoted from Maltseva 2012, 231). The regional and local authorities were not able to collect taxes and on the other hand federal government could not provide them necessary transfers. The government transferred a number of funds from being funded by the budget to off-budget funds, mainly from employers’ social insurance contributions. In response to the sky-rocketing inflation, collapse of welfare systems and mounting poverty government took steps to recentralize system of transfers. However, as Maltseva notes, also this effort turned out to be inefficient, prone to manipulation by regional administrations and inciting overspending. Yeltsin’s administration was incarcerated by the regional governors because they had been granted very large autonomy in first years of transition and Yeltsin needed their support. On the other side was the necessity to make radical reforms in order to prevent complete collapse of the Russian economy.  This resulted in number of haphazard efforts to reform and concessions to regional authorities. According to Maltseva this nurtured informal negotiations and relationships between the government and regional governors and eventual undermining of institutional mechanisms of control and even the legitimacy of federal government in the eyes of regional governors.  The consequences of the neo-liberal reforms instigated growing protests among the political parties in the parliament and led to unprecedented unity across the political spectrum – from Communist party to Union of Industrialists. The threat of losing Presidential elections forced Yeltsin to slow down the economic reform and distance himself from the Gaidar’s reform group. Yeltsin rejected Zyuganov’s demand to restore the price controls of wages and prices, but “ he embraced many elements of the Communists’ social welfare program”. (Maltseva 2012, 261) The government raised pensions and wages and reduced the wage arrears. In a way then, Yeltsin bought his victory in1996 Presidential elections with generous welfare spending; something that his government set out to reduce into minimum just few years before. Maltseva notes that “many of the Yeltsin’s welfare initiatives did not fit with the logic of liberal economic reforms and contributed nothing to the development of comprehensive antipoverty and targeted social-assistance programs.” (2012, 265) Instead the government adopted the strategy of expanding the soviet-type system of social privileges to various groups of population. In an effort to mitigate the social and economic consequences of looming economic crises during 1997-1998, the government tried to reverse some of the previous decisions in welfare reform.  Among the proposals were cuts in the spending and measures to cut back the Soviet-era welfare benefits. However, all efforts were rejected by the Duma. In January 1998 the government published its plans of reform of the welfare system, with the emphasis on targeted social assistance, abolishment of entitlement benefits and replacement of these with means-tested benefits. Maltseva’s evaluation of the welfare reform in 1990’s is harsh, according to her instead of reforming the system the “government designed ad hoc and often populist social welfare policies that, instead of contracting the costly welfare system, expanded it. By the end of the 1990s, more than two-thirds of Russia’s 148 million people were entitled to various kinds of social privileges. According to various accounts, by 1999, there were over 150 types of social protection covering 236 categories of the population at the federal level alone.” The problems of welfare system were complex and difficult to overcome, the system was not transparent, flexible, equal or economically sustainable.  An indication of how socially distorted the welfare system was is the fact that almost half (49.5 %) of the housing-related benefits went to non-poor households and only 28.5 % of poor households received these benefits.
+The early years of post-socialist Russia was characterized by constant economic turmoil, rapidly eroding well-being of population and efforts to reform the economy. According to Maltseva (2012, 229) Yeltsin’s government was maneuvering between demands of western economic institutions and domestic popular protests and political forces. One of the key aims of Gaidar’s economic reform was to balance budget and the government strived to minimize government spending on welfare and invest all efforts in boosting the economic growth, which eventually would yield fruits also to welfare. Government’s share in welfare provision was supposed to decrease from 53 % to 40 % within next three years period (1992-1994) and the social security would change more to targeted provision of services for those who really need. Third element in the reform was the transfer of financial responsibilities from federal state to regions and local governments to mitigate deepening budget deficit. (Maltseva 2012, 231)  The result was rapid increase of share of local and regional administration in the financing the welfare and corresponding decrease of federal public spending from 23.4 % of GDP to mere 18.6 % between 1992-1994. (Treisman 1999; quoted from Maltseva 2012, 231). The regional and local authorities were not able to collect taxes and on the other hand federal government could not provide them necessary transfers. The government transferred a number of funds from being funded by the budget to off-budget funds, mainly from employers’ social insurance contributions. In response to the sky-rocketing inflation, collapse of welfare systems and mounting poverty government took steps to recentralize system of transfers. However, as Maltseva notes (2012,240), also this effort turned out to be inefficient, prone to manipulation by regional administrations and inciting overspending. Yeltsin’s administration was incarcerated by the regional governors because they had been granted very large autonomy 
+ in first years of transition and Yeltsin needed their support. On the other side was the necessity to make radical reforms in order to prevent complete collapse of the Russian economy.  This resulted in number of haphazard efforts to reform and concessions to regional authorities. According to Maltseva (2012, 241)  this nurtured informal negotiations and relationships between the government and regional governors and eventual undermining of institutional mechanisms of control and even the legitimacy of federal government in the eyes of regional governors.  The consequences of the neo-liberal reforms instigated growing protests among the political parties in the parliament and led to unprecedented unity across the political spectrum – from Communist party to Union of Industrialists. The threat of losing Presidential elections forced Yeltsin to slow down the economic reform and distance himself from the Gaidar’s reform group. Yeltsin rejected Zyuganov’s demand to restore the price controls of wages and prices, but “ he embraced many elements of the Communists’ social welfare program”. (Maltseva 2012, 261) The government raised pensions and wages and reduced the wage arrears. In a way then, Yeltsin bought his victory in1996 Presidential elections with generous welfare spending; something that his government set out to reduce into minimum just few years before. Maltseva notes that “many of the Yeltsin’s welfare initiatives did not fit with the logic of liberal economic reforms and contributed nothing to the development of comprehensive antipoverty and targeted social-assistance programs.” (2012, 265) Instead the government adopted the strategy of expanding the soviet-type system of social privileges to various groups of population. In an effort to mitigate the social and economic consequences of looming economic crises during 1997-1998, the government tried to reverse some of the previous decisions in welfare reform.  Among the proposals were cuts in the spending and m
+ea sures to cut  back the 
+Soviet-era welfare benefits. However, all efforts were rejected by the Duma. In January 1998 the government published its plans of reform of the welfare system, with the emphasis on targeted social assistance, abolishment of entitlement benefits and replacement of these with means-tested benefits. Maltseva’s evaluation of the welfare reform in 1990’s is harsh, according to her instead of reforming the system the “government designed ad hoc and often populist social welfare policies that, instead of contracting the costly welfare system, expanded it (2012,12). By the end of the 1990s, more than two-thirds of Russia’s 148 million people were entitled to various kinds of social privileges. According to various accounts, by 1999, there were over 150 types of social protection covering 236 categories of the population at the federal level alone.” (2012, 270) The problems of welfare system were complex and difficult to overcome, the system was not transparent, flexible, equal or economically sustainable.  An indication of how socially distorted the welfare system was is the fact that almost half (49.5 %) of the housing-related benefits went to non-poor households and only 28.5 % of poor households received these benefits.
 
 According to Maltseva, there were three large groups of welfare recipients in the end of 1990’s: (1) deserving disadvantaged (e.g. orphans, disabled), (2) privileged groups (e.g. labor heroes, veterans of war) and (3) public servants (e.g. members of military, security services and judges). According to Cook (2007) Russia’s welfare reform during Yeltsin period produced a “spontaneously privatized system of welfare” which became more informalized and corrupted, leading to increasing disparities and restrictions of access.  
  
@@ -200,15 +215,15 @@ In the beginning of his presidency Putin reversed many of the Yeltsin’s reform
 
 Due to  improved competitiveness of domestic products and continuously high prices of raw materials (oil, gas etc.) during the 2000s, combined with very strict financial policy, the inflation lowered from 18.6 % to 10.9 % 2001-2005 and poverty declined from 27.3 % to 15.8 % during the same time.  In welfare policy there was a determined turn from universal benefits or in-kind benefits for privileged groups towards the targeted, means-tested benefits and services especially for poor families or low-income groups. One of the key tasks was the introduction of cash benefits or monetization of benefits. 
 
-The key aims of monetization reform were the 1) decrease of the welfare costs, 2) change eligibility criteria to favor poor,3) to improve transparency of payments,4) increase social justice and 5) diminish poverty levels. According to Maltseva the benefit reform was not a fully liberal, because the benefits were still to be depending on the economic and social status of the recipient. The government justified need to reform because the old welfare system was seen as over-sized, inefficient and expensive and favoring non-poor and being prone to corrupt practices. In preparing the population for the reform the government launched a wide information campaign and according to polls some 89 % of the polled people knew about the reform in July 2004.  A large part of the population believed that the old system indeed needed to be reformed: 68 % of agreed that the old system unjust and ineffective, while only for 18 % of respondents the system was socially just. The key problems of the old system were the lack of targeted social assistance, bureaucracy and unfriendly personnel in social services. However, only some 40 % population supported the proposal of replacing the in-kind benefits with monetary compensations. The existing system represented Soviet system of restricted privileges and caused therefore a deep mistrust among the population. Even if Rodina and Communist Party opposed it the monetization reform was accepted in Duma and president Putin signed the law in August 2004.
+The key aims of monetization reform were the 1) decrease of the welfare costs, 2) change eligibility criteria to favor poor,3) to improve transparency of payments,4) increase social justice and 5) diminish poverty levels.(Maltseva 2012, 336)  The  reform was not a fully liberal, because the benefits were still to be depending on the economic and social status of the recipient. The government justified need to reform because the old welfare system was seen as over-sized, inefficient and expensive and favoring non-poor and being prone to corrupt practices. In preparing the population for the reform the government launched a wide information campaign and according to polls some 89 % of the polled people knew about the reform in July 2004.  A large part of the population believed that the old system indeed needed to be reformed: 68 % of agreed that the old system unjust and ineffective, while only for 18 % of respondents the system was socially just. The key problems of the old system were the lack of targeted social assistance, bureaucracy and unfriendly personnel in social services. However, only some 40 % population supported the proposal of replacing the in-kind benefits with monetary compensations (Maltseva 2012, 286-288) The existing system represented Soviet system of restricted privileges and caused therefore a deep mistrust among the population. Even if Rodina and Communist Party opposed it the monetization reform was accepted in Duma and president Putin signed the law in August 2004.
 
 Even if the population approved governments’ goals and justifications of reform, the government lost the trust of the population to be able to implement reform. The logic of the reform was complex and remained obscure for large part of population and also for social security workers. Some groups of population were afraid of losing their social security and facing only poverty, especially when many prices, such as transport or housing were raising. Especially the fact that reform of social benefits was planned at same time when the benefits for the public employees remained untouched caused anger and confusion. All these nurtured views that the government is only protecting the rich bureaucrats with the expense of the poor.  As a consequence massive protests bursted, totaling 420 protest actions between January-July 2005. After first protests an agreement was made between the Government and trade unions about new negotiations over the reform. Later, however, no meetings took place and the government was not willing to make any concessions to popular demands. This clearly indicated that the government was adopting authoritarian reform policy; it was not willing to lend ear for people’s concerns, but was convinced that the Government knows what is best for the people.
 
 Regions had no time to evaluate the reform and no resources to implement it. It became evident that differences between regional and federal welfare recipients were big, because federal recipients benefited more than regional and among the regional recipients the fate depended on in which region one lives. In the end monetization was implemented thoroughly only in rich regions or oblasts (Tjumen, Tatarstan and Tver), in 46 regions there were only minor changes and in 30 regions moderate changes. Afterwards the government adopted many hasty patching operations, for example by postponing the increase in pension age, postponing the monetization of housing and communal services benefits.
 
-One element of the reform was the pension reform. It was justified with weakening demographic balance in the future – i.e. growing sustainability gap in future which meant too many pensioners in relation to working population. The solution was adoption a modification of the Chilean pension system where 28 % pension fee was coming from wages and paid by employers, another part was paid by the employees themselves. The third element was accumulative pension segment, where employees could invest a part of their pension savings to government bonds or private firms. Maltseva argues that the reason for failure in the pension reform was weak information campaign about the new system to general public. The result was indicated by the fact that  in 2009 93.2 % of all workers had not transferred their pension savings to private insurance companies, but kept them in State Pension Fund.
+One element of the reform was the pension reform. It was justified with weakening demographic balance in the future – i.e. growing sustainability gap in future which meant too many pensioners in relation to working population. The solution was adoption a modification of the Chilean pension system where 28 % pension fee was coming from wages and paid by employers, another part was paid by the employees themselves. The third element was accumulative pension segment, where employees could invest a part of their pension savings to government bonds or private firms. Maltseva argues that the reason for failure in the pension reform was weak information campaign about the new system to general public. The result was indicated by the fact that  in 2009 93.2 % of all workers had not transferred their pension savings to private insurance companies, but kept them in State Pension Fund. (Maltseva 2012, 292)
 
-The failure in the monetization project led to a new opening: National Priority Projects since 2005. These represent a new turn towards more statist welfare policy, with pro-natalist agenda. (Cook 2008)  National Projects represented a state intervention to selected priority areas and for Cook they also represented a “selective revival of state planning”. (ibid, 13)  However, Maltseva argues that they represented more a media campaign of Medvedev for Presidential election than true Priority projects. She justifies her argument by the fact that after Presidential elections the media lost interest in them and the government moved to more humble government programs which had a longer time-span and more relaxed criteria than the National Priority Projects. In the final evaluation the monetization reform failed in most respects, because it did not decrease welfare costs, it did not change the eligibility criteria, it made some regions even more dependent on federal level than before and it did not reduce the poverty and it failed to get people’s trust to government actions. Maltseva: “The reform had only minimal impact on social inequality and poverty reduction, because the poverty level was decreased only by 1,5 %”.
+The failure in the monetization project led to a new opening: National Priority Projects since 2005. These represent a new turn towards more statist welfare policy, with pro-natalist agenda. (Cook 2008)  National Projects represented a state intervention to selected priority areas and for Cook they also represented a “selective revival of state planning”. (ibid, 13)  However, Maltseva argues that they represented more a media campaign of Medvedev for Presidential election than true Priority projects. She justifies her argument by the fact that after Presidential elections the media lost interest in them and the government moved to more humble government programs which had a longer time-span and more relaxed criteria than the National Priority Projects. In the final evaluation the monetization reform failed in most respects, because it did not decrease welfare costs, it did not change the eligibility criteria, it made some regions even more dependent on federal level than before and it did not reduce the poverty and it failed to get people’s trust to government actions. Maltseva: “The reform had only minimal impact on social inequality and poverty reduction, because the poverty level was decreased only by 1,5 %”. (2012, 238)
 
 ## No organized interest representation
 
@@ -240,49 +255,50 @@ So, the picture is clear: most Russians are quite unsatisfied with the quality o
 
 \newpage
 
-\begin{table}[htbp]
-\caption{caption here}
-\begin{tabular}{lcccccccccc}
-\toprule
- & 2003 & 2004 & 2005 & 2006 & 2007 & 2008 & 2009 & 2010 & 2011 & 2012 \\ 
-\multicolumn{1}{c}{} & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & VIII  & IX  \\ 
-\midrule
-Definitely yes  & 2 & 3 & 2 & 2 & 3 & 2 & 3 & 2 & 1 & 1 \\ 
-Yes, rather than no  & 9 & 11 & 9 & 10 & 14 & 13 & 15 & 13 & 14 & 15 \\ 
-Neither yes, nor no  & 23 & 20 & 21 & 19 & 21 & 20 & 23 & 22 & 22 & 22 \\ 
-No, rather than yes  & 39 & 36 & 36 & 36 & 34 & 36 & 36 & 35 & 37 & 33 \\ 
-Definitely no  & 23 & 29 & 29 & 32 & 26 & 27 & 22 & 25 & 22 & 24 \\ 
-Difficult to answer  & 4 & 2 & 3 & 2 & 2 & 3 & 1 & 4 & 4 & 4 \\ 
-\bottomrule
-\end{tabular}
-\label{}
-\end{table}
 
-*Source: Levada Center 2014*
+Table: caption here *Source: Levada Center 2014*
 
 
+-------------------------------------------------------------------------------
+                     2003  2004  2005  2006  2007  2008  2009  2010  2011  2012
+                     VIII  VIII  VIII  VIII  VIII  VIII  VIII  VIII  VIII  IX
+-------------------  ----  ----  ----  ----  ----  ----  ----  ----  ----  ----
+Definitely yes       2     3     2     2     3     2     3     2     1     1
 
-\begin{table}[htbp]
-\caption{Who should run the following services?}
-\begin{tabular}{lllllll}
-\toprule
- & \multicolumn{ 2}{c}{Child Care} & \multicolumn{ 2}{c}{Elderly} & \multicolumn{ 2}{c}{Medical care} \\ 
- & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} & \multicolumn{1}{r}{1999} & \multicolumn{1}{r}{2007} \\ 
- \midrule
-State & 66.4 & 42.8 & 77.4 & 55.7 & 76.4 & 60.5 \\ 
-Regional authorities & 2.8 & 6.1 & 4.2 & 8.4 & 4.6 & 15.0 \\ 
-Local authorities  & 7.2 & 9.1 & 9.3 & 14.1 & 11.3 & 18.6 \\ 
-Private enterprises & 0.3 & 0.5 & 0.8 & 0.6 & 2.2 & 0.9 \\ 
-Citizens & 18.8 & 36.7 & 5.4 & 16.2 & 1.4 & 0.1 \\ 
-Hard to say & 4.5 & 4.8 & 2.9 & 5.0 & 4.1 & 4.9 \\ 
-TOTAL & 100.0 & 100.0 & 100.0 & 100.0 & 100.0 & 100.0 \\ 
-\bottomrule
-\end{tabular}
-\label{}
-\end{table}
+Yes, rather than no  9     11    9     10    14    13    15    13    14    15
 
-*Source: Distinctions in Modern Russia-surveys 1999/2007*
+Neither yes, nor no  23    20    21    19    21    20    23    22    22    22
 
+No, rather than yes  39    36    36    36    34    36    36    35    37    33
+
+Definitely no        23    29    29    32    26    27    22    25    22    24
+
+Difficult to answer  4     2     3     2     2     3     1     4     4     4
+-------------------------------------------------------------------------------
+
+
+
+Table: Who should run the following services? *Source: Distinctions in Modern Russia-surveys 1999/2007*
+
+
+-----------------------------------------------------------------------
+                       Child  Care   Elderly  Care   Medical  Care
+                       1999   2007   1999     2007   1999     2007
+--------------------   -----  ----   ----     ----   ----     ----
+State                  66.4   42.8   77.4     55.7   76.4     60.5
+
+Regional authorities   2.8    6.1    4.2      8.4    4.6      15.0
+
+Local authorities      7.2    9.1    9.3      14.1   11.3     18.6
+
+Private enterprises    0.3    0.5    0.8      0.6    2.2      0.9
+
+Citizens               18.8   36.7   5.4      16.2   1.4      0.1
+
+Hard to say            4.5    4.8    2.9      5.0    4.1      4.9
+
+TOTAL                  100.0  100.0  100.0    100.0  100.0    100.0
+-----------------------------------------------------------------------
 
 
 In  the end, neither the government has totally abandoned the principles of  state provision in the social field nor have the Russian citizens  changed their expectations towards the state. In the middle of the  described, often controversial state policies, the liberal idea of an  individually based social responsibility has never been widely accepted  among Russians. On the contrary, the social welfare norms established by  the Soviet socialism still largely retain (Collier 2001, 3) and Russian  citizens still expect the state act as a main provider of social  welfare (Henry 2009; Kulmala 2013).[^2.81]
@@ -373,6 +389,7 @@ Chernova 2010
 - Hughes, M.C.: Smashing the iron bowl. Foreign Affairs, Vol. 77, 1998/4.
 - Iarskaia-Smirnova & Romanov 2012, 212
 - Izvestiia, February 10, 2014
+Johnson, Janet E., and Aino Saarinen. 2011. “Assessing Civil Society in Putin’s Russia: The Plight of Women’s Crisis Centers.” Communist and Post-Communist Studies 44 (1): 41–52.
 - Jäppinen, Maija, Johnson, Janet & Kulmala, Meri (2014):  Shades of grey: What women’s crisis centers in Saint Petersburg teach us about state-society relations in Putin’s Russia. Anunpublished article manurscript (currently under peer-review for Slavic Studies) 
 - Jäppinen, Maija, Meri Kulmala, and Aino Saarinen. 2011: “Introduction: Intersections of Welfare, Gender, and Agency” in Maija Jäppinen et al., ed., Gazing at Welfare, Gender and Agency in Post-socialist Countries. Newcastle upon Tyne: 1-12. 
 - Kivinen, Markku: Classes in the Making. Russian Class Structure in Transition. In Göran Therborn (ed.): Inequalities of the World. Verso 2007, 247-294.
@@ -382,7 +399,7 @@ Chernova 2010
 - Kulmala, Meri (2013): State and Society in Small-town Russia. A Feminist-ethnographic Inquiry into the Boundaries of Society in the Finnish-Russian Borderland. Department of Social Research 2013:14, Sociology. Helsinki: University of Helsinki.  
 - Kulmala, Meri (2014): ”Missä valtio loppuu ja yhteiskunta alkaa?” Idäntutkimus 1/2014, 90-97.   
 - Kulmala, Meri: Russian Society. In: Russia of Challenges, Helsinki, Ministry of Defence 2007, 9–31.
-- Kulmala, Meri & Tarsenko, Anna (forthcoming 2015): THE NEW OLD-FASHIONED?RUSSIAN VETERANS’ ORGANIZATIONS AT THE CROSSROADS OFSOCIAL SERVICES AND SOCIAL ADVOCACY. 
+- Kulmala, Meri & Tarsenko, Anna (forthcoming 2015): The New OLD-FASHIONED?RUSSIAN VETERANS’ ORGANIZATIONS AT THE CROSSROADS OFSOCIAL SERVICES AND SOCIAL ADVOCACY. 
 - Korhonen, Vesa. 2013: “Fiscal flows between Moscow and the regions.” Presentation at the seminar: The Role of Regions in Russia’s Modernization. University of Helsinki. 12 December 2013. 
 - Lankina, Tomila. 2003. “Managing the Grassroots: Putin’s Reform of Local Government.” Russia and Eurasia Review 2 (9).
 - Lin, Ka & Kangas Olli: Social Policymaking and its institutional basis: Transition of the Chinese social security system. International Social Security Review, Vol. 59, 2/2006, 61–76.
@@ -402,7 +419,7 @@ Chernova 2010
 - Rivkin-Fish, Michele (2010): Pronatalism, Gender Politics, and the Renewal of Family Support in Russia: Toward a Feminist Anthropology of "Maternity Capital". Slavic Review, Vol. 69, No. 3 (FALL 2010), pp. 701-724
 - Rotkirch, Anna, Temkina, Anna and Zdravomyslova, Elena (2007): Who Helps the Degraded Housewife?: Comments on Vladimir Putin's Demographic Speech. European Journal of Women's Studies 2007 14: 349. 
 - Ruoppila, Sampo: Residential Differentiation, Housing Policy and Urban Planning in the Transformation from State Socialism to a Market Economy: The Case of Tallinn. Espoo 2006, Helsinki University of Technology, Centre for Urban and Regional Studies.
-- Saarinen 2012
+- Saarinen, Aino (2012): Welfare Crisis and Crisis Centers in Russia Today. In And They Lived Happily Ever After? Norms and Everyday Practices of Family and Parenthood in Russia and Eastern Europe. Ed. by Helene Carlbäck, Yulia Gradskova, Zhanna Kravchenko. CEU Press, Budapest and New York.    
 - Sakwa, Richard: Putin Russia’s Choice. Routledge 2004.
 - Sakwa, Richard: Russian Politics and Society. Routledge 2008.
 - Salamon, Lester M., and Helmut K. Anheier. 1998. “Social Origins of Civil Society: Explaining the Nonprofit Sector Cross-nationally.” Voluntas: International Journal of Voluntary and Nonprofit Organizations 9 (3): 213–248.
