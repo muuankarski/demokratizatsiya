@@ -3,43 +3,111 @@ library(rqog)
 # Download a local coppy of the file
 dat <- read_qog(which.data = "basic")
 # Subset the data
-dat2 <- dat[dat$cname %in% c("Russia", "China", "India", "Brazil"), ]
+dat2 <- dat[dat$cname %in% c("Russia", 
+                             "China", "India", 
+                             "Brazil"), ]
 dat2 <- dat2[c("cname", "year", "undp_hdi", "wdi_gdpc")]
-dat2 <- dat2[dat2$year %in% 1990:2010, ]
+dat2 <- dat2[dat2$year %in% 1995:2010, ]
 
-dat2 <- dat[dat$cname %in% c("Russia", "China", "India", "Brazil"), ]
-dat2 <- dat2[c("cname", "year", "undp_hdi", "wdi_gdpc")]
-dat2 <- dat2[dat2$year %in% 1990:2010, ]
+# dat2 <- dat[dat$cname %in% c("Russia", "China", "India", "Brazil"), ]
+# dat2 <- dat2[c("cname", "year", "undp_hdi", "wdi_gdpc")]
+# dat2 <- dat2[dat2$year %in% 1990:2010, ]
 
 dat2 <- dat2[!is.na(dat2$undp_hdi), ]
 dat2 <- dat2[!is.na(dat2$wdi_gdpc), ]
 
+brazil <- dat2[dat2$cname == "Brazil",]
+russia <- dat2[dat2$cname == "Russia",]
+india <- dat2[dat2$cname == "India",]
+china <- dat2[dat2$cname == "China",]
+
+brazil$wdi_gdpc_relative <-brazil$wdi_gdpc / 7716.368 * 100
+russia$wdi_gdpc_relative <-russia$wdi_gdpc / 7850.836 * 100
+india$wdi_gdpc_relative <-india$wdi_gdpc / 1404.231 * 100
+china$wdi_gdpc_relative <-china$wdi_gdpc / 1849.153 * 100
+
+brazil$undp_hdi_relative <-brazil$undp_hdi / 0.634 * 100
+russia$undp_hdi_relative <-russia$undp_hdi / 0.675 * 100
+india$undp_hdi_relative <-india$undp_hdi / 0.437 * 100
+china$undp_hdi_relative <-china$undp_hdi / 0.541 * 100
+
+dat2 <- rbind(brazil,russia,china,india)
+
 # # melt to long format
-# library(reshape2)
-# dat.l <- melt(dat2, id.vars = c("cname", "year"))
-# dat.l <- dat.l[!is.na(dat.l$value), ]
+library(reshape2)
+dat.l <- melt(dat2, id.vars = c("cname", "year"), measure.vars=c("undp_hdi_relative",
+                                                                 "wdi_gdpc_relative",
+                                                                 "undp_hdi",
+                                                                 "wdi_gdpc"))
+
 library(ggplot2)
+library(wesanderson)
+
 # Plot the data
-plz <- ggplot(dat2, aes(x = wdi_gdpc, y = undp_hdi, color = cname, label=year)) + 
-    geom_point(shape=1, size=1.5) + geom_path() + 
-    geom_text(size=2, hjust=0.0, vjust=-0.5) +
+plz <- ggplot(dat.l, aes(x = year, y = value, 
+                         color = cname, 
+                         label=round(value,0))) + 
+    geom_point(shape=1, size=1.5) + 
+    geom_path() + 
+    geom_text(data=merge(dat.l, aggregate(year ~ cname, dat.l, max),
+                         by=c("year","cname")),
+              aes(x=year,y=value,label=cname),
+              hjust=-.1,vjust=1.5,size=3) +
     theme_minimal() +
     scale_color_manual(values = wes.palette(5, "Cavalcanti")) +
-    theme(legend.position="top") +
-    guides(color = guide_legend(nrow = 2,keyheight =.5)) +
+    theme(legend.position="none") +
     theme(legend.title=element_blank()) +
-    labs(x = "Human Development Index", 
-         y = "GDP per capita") +
+    labs(x = "", 
+         y = "") +
     theme(axis.title.y = element_text(size=8)) +
     theme(axis.title.x = element_text(size=8)) +
     theme(axis.text.y = element_text(size=8)) +
     theme(axis.text.x = element_text(size=8)) +
     theme(legend.text = element_text(size=8)) +
-    theme(title = element_text(size=7))
-    scale_y_log10()
+    theme(title = element_text(size=8)) +
+    facet_wrap(~variable, ncol=2, scales="free") +
+    coord_cartesian(xlim=c(1995,2012))
+
+
+
+ggplot(dat2, aes(x=gdp_bofit, 
+                 y=value.num,
+                 label=year)) + 
+    geom_point(shape=1, size=1.5) + geom_path() + 
+    geom_text(size=2, hjust=0.0, vjust=-0.5)
+
+
+dat.l <- melt(dat2, id.vars = c("cname", "year"), measure.vars=c("undp_hdi_relative",
+                                                                  "wdi_gdpc_relative"))
+dat.l <- dat.l[dat.l$cname != "China",]
+plz2 <- ggplot(dat.l, aes(x = year, y = value, 
+                         color = variable, 
+                         label=round(value,0))) + 
+    geom_point(shape=1, size=1.5) + 
+    geom_path() + 
+    geom_text(data=merge(dat.l, 
+                         aggregate(year ~ cname, dat.l, max),
+                         by=c("year","cname")),
+              aes(x=year,y=value,label=cname),
+              hjust=0,vjust=1.5,size=3) +
+    theme_minimal() +
+    scale_color_manual(values = wes.palette(5, "Cavalcanti")) +
+    theme(legend.position="top") +
+    theme(legend.title=element_blank()) +
+    labs(x = "", 
+         y = "") +
+    theme(axis.title.y = element_text(size=8)) +
+    theme(axis.title.x = element_text(size=8)) +
+    theme(axis.text.y = element_text(size=8)) +
+    theme(axis.text.x = element_text(size=8)) +
+    theme(legend.text = element_text(size=8)) +
+    theme(title = element_text(size=8)) +
+    coord_cartesian(xlim=c(1995,2012))
+
+
 
 ppi <- 300
-png("../figure/macroplot0.png", width=12/2.54*ppi, height=14/2.54*ppi, res=ppi)
+png("../figure/macroplot0.png", width=18/2.54*ppi, height=20/2.54*ppi, res=ppi)
 plz
 dev.off()
 
@@ -195,7 +263,7 @@ library(wesanderson)
 pl <- ggplot(df.plot.l, aes(x=year, y=value.num, 
                       label=value.num, color=variable)) + 
     geom_line() + geom_point() + 
-    geom_text(size=2, hjust=0.0, vjust=-0.5) + 
+    geom_text(size=3, hjust=0.0, vjust=-0.5) + 
     theme_minimal() +
     scale_color_manual(values = wes.palette(5, "Cavalcanti")) +
     theme(legend.position="top") +
