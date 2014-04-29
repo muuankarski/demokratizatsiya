@@ -37,9 +37,7 @@ After the collapse of the communist regime, Russian welfare structures have been
 Hence, we have seen many welfare related questions taking a top position on the agenda of the Russian federal government as well as concrete investments in welfare since 2005. At the same time, poverty rates considerably declined and rapidly growing inequality stabilized (Kivinen, forthcoming).  Yet, the overall picture does not look that promising that one would assume after such substantial attention. 
 
 
-![File from thegadget](figure/macroplot0.png)
-
-`Kuvion kuvaus ts. oikea kuvio on vähän skarpimpi`
+![Human deveplopment index and GDP per capita](figure/macroplot0.png)
 
 
 In this article, our aim is to discuss what are the major reasons that would explain why the situation has not improved as one could have expected because of such “hype”. In our discussion, we pay special attention to the questions concerning the relationship between the political regime(s) in the country and welfare arrangements. Since 1991, Russian governments have adoption of Western – often (neo)liberal – welfare policies, relied on mixes of surviving Soviet practices, and ad hoc measures. That is to say, Russian welfare policy seems to oscillate between contradictory tendencies: between neoliberalism and state-based social policy, between individualization of risks and strong administrative control (Hemment 2009). In this article, we aim to understand these sometimes controversial or even paradoxical tendencies in welfare efforts performed by the Russian state. 
