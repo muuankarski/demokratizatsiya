@@ -14,7 +14,7 @@
 
 \newpage
 
-**abstract**: 
+**Abstract**: 
     
 *A severe demographic crisis emerged as a result of the Russian transition: a combination of the low birth rate and rise in rates of premature mortality (especially of Russian men) has led to a sharp decline in population. (Cook, 2011; Field, 1995) The old welfare regime seems to be rusting and there is evident need for new solutions. The issue of social justice (social citizenship) is now a central problem; while it was high on the Soviet agenda, but lost in the first times of transition. The creation of a new model of its welfare state is one of the most comprehensive and still very much unresolved strategic tasks of post-communist Russia. The Russian governments have since 1991relied on mixes of surviving Soviet practices, adoption of Western welfare policies, and ad hoc measures. Until lately the oil exports have produced a budget surplus that has been used for stabilizing the economy and providing more resources for social security. Further analysis is necessary to explain how, by whom, and to which priorities those resources have been channeled at the practical level. The current Russian welfare regime represents an informalized model where the state does not provide needed social protection, but improvised solutions are found by enterprises and individuals. In this article we study the interests and roles of different actors in formulation of welfare policies in Russia. We argue in the article that Russian welfare policy is oscillating between contradictory tendencies: between neoliberalism and state-based social policy, between individualisation of risks and strong administrative control and alternative, politically challenging grassroots services seem to have little space today.(see: Hemment, 2009). Therefore, we argue, the question of welfare model is in very fundamental sense also a question of democracy.*
 
@@ -83,16 +83,21 @@ Economic reform had been the key priority in president Putin’s first term. In 
 
 \newpage
 
-Table:. Expenditure for social functions by tier of government as a percentage of total expenditure, 2006
+Table:. Expenditure for social functions by tier of government as a percentage of total expenditure, 2006  *Source: De Silva et al. (2009).*
 
-| Federal | Regional | Local |
-| -------- | -------- | -------- | ----- |
-| Housing | 8 | 49 | 43 |
-| Education | 22 | 26 | 52 |
-| Health | 22 |  59 | 19 |
-| Social welfare | 81 | 14 | 5 |
+-----------------------------------------------------------
+                Federal   Regional  Local
+--------        --------  --------  -----
+Housing         8         49        43
 
-*Source: De Silva et al. (2009).*
+Education       22        26        52
+
+Health          22        59        19
+
+Social welfare  81        14        5
+-----------------------------------------------------------
+
+
 
 
 It is not easy to judge how systematic and significant the role of national priority projects in fact has been. Cerami has presented evidence based on the Ministry of Finance's 2008 federal budget framework until 2010. It forecasted a 48 percent increase for social expenditure. Pekka Sutela (2012, 200–201) has pointed out that the budget grew overall larger, and inflation increased beyond expectations. Consequently, nominal values would not be the most relevant indicator. Therefore, one should preferably look at percentage distribution and compare the actual outcome with the framework. It should be observed also that a lot of welfare expenditure is not decided at the federal level (Table 4). As the information for the available year 2006 shows, half of public education is funded by local budgets and most public money for health is channelled via the regional level. Housing is almost not a federal issue at all, while social welfare expenditure is overwhelmingly federal (Sutela 2012, 200–202). On the other hand, budget transfers from the federation to the regional and local levels should also be taken into account. Using the Bank of Finland Economies of Transition unit’s calculations prepared by Vesa Korhonen, Sutela has constructed the actual consolidated budget expenditure by calculating the expenditure of the federal, regional and local levels as well as expenditure from extra-budgetary funds. In Table 5, dated calculations, prepared for this article by Vesa Korhonen, are presented. Table 6 shows the subcategories of social security in social expenditure. In the light of these tables, the ‘Russian miracle’ is not evident at all. In actual fact, the rise in budgeted welfare was a lot from 2005 to 2009 (125 percent); however, the relative share was not growing and the actual rise at the same time in all expenditure was even more comprehensive (132 percent).
@@ -142,11 +147,11 @@ Table: Subcategories of social security in social expenditure. Billions of roubl
 The Russian population is ageing rapidly and this implies a rising dependency ratio, especially because the retirement age is low (60 for men and 55 for women). During the next twenty years the number of pensioners is going to increase by ten million, whereas the working population will decline by eleven million. Already by 2020 there will be around 800 retired persons for every 1,000 working age citizens. This seems to indicate a pressure to increase the age of retirement.
 
 
-![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2010 *Source: Rosstat 2012*](figure/kuva_markku1.png)
+![Development of income, wages, pensions, subsistence minimum and minimum wages in 1992–2012 *Source: Rosstat 2013*](figure/macroplot2.png)
 
 
 
-![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum *Source: Rosstat 2012*](figure/kuva_markku2.png)
+![Change in dependency between GDP and wages, pensions, minimum wage and subsistence minimum *Source: Rosstat 2013*](figure/macroplot1.png)
 
 
 
@@ -365,7 +370,7 @@ In other words, the most evident flaw in the local implementation seems to be th
 - Borodina et al 2014, Ekaterina Borozdina, Anna Rotkirch, Anna Temkina & Elena Zdravomyslova: How to Use the Maternity Capital: Citizen Distrust of Russian Family Policy. Unpublished article manuscript (under peer-review)
  - Cerami, Alfio: Socio-Economic Transformations in Post-Communist Countries: Central and Eastern Europe and Russia Compared. Romanian Journal of Political Science, Vol. 9 No. 1, 2009 (http:///www.sar.org.ro/polsci/), (2009a)
 - Cerami, Alfio: Welfare State Developments in the Russian Federation: Oil-Led Social Policy and ‘The Russian Miracle’. Social Policy & Administration, Vol.43 no. 2, 105–120, (2009b) 
-Chernova 2010
+Chernova, Zhanna (2010): Molodaia sem'ia kak ob'ekt / sub'ekt semenoi politiki. Polit.ru, 30 November 2010. http://polit.ru/article/2010/11/30/family/
 - Clarke, Simon: The contradictions of ‘state socialism’. In Simon Clarke et al.: What about the Workers. Workers and the Transition to Capitalism in Russia. Edgar Elgar 1993.
 - Clarke, Simon: Post-socialist trade unions: China and Russia. Industrial Relations Journal, Vol. 36, 2005/1, 2–18.
 - Collier, Stephen J (2011): Post-Soviet Social: Neoliberalism, Social Modernity, Biopolitics. Princeton: Princeton University Press.
@@ -388,18 +393,17 @@ Chernova 2010
 - Hemment, Julie. 2009. “Soviet-Style Neoliberalism?” Problems of Post-Communism 56 (6): 36–50.
 - Hughes, M.C.: Smashing the iron bowl. Foreign Affairs, Vol. 77, 1998/4.
 - Iarskaia-Smirnova & Romanov 2012, 212
-- Izvestiia, February 10, 2014
+- Izvestiia, February 10, 2014 = Materinskii kapital stanet polnost'iu zhilischnym. 
 Johnson, Janet E., and Aino Saarinen. 2011. “Assessing Civil Society in Putin’s Russia: The Plight of Women’s Crisis Centers.” Communist and Post-Communist Studies 44 (1): 41–52.
 - Jäppinen, Maija, Johnson, Janet & Kulmala, Meri (2014):  Shades of grey: What women’s crisis centers in Saint Petersburg teach us about state-society relations in Putin’s Russia. Anunpublished article manurscript (currently under peer-review for Slavic Studies) 
-- Jäppinen, Maija, Meri Kulmala, and Aino Saarinen. 2011: “Introduction: Intersections of Welfare, Gender, and Agency” in Maija Jäppinen et al., ed., Gazing at Welfare, Gender and Agency in Post-socialist Countries. Newcastle upon Tyne: 1-12. 
+- Jäppinen, Maija, Meri Kulmala, and Aino Saarinen. 2011: “Introduction: Intersections of Welfare, Gender, and Agency” in  Gazing at Welfare, Gender and Agency in Post-socialist Countries. Ed. by Maija Jäppinen, Meri Kulmala & Aino Saarinen. Cmabridge Scholars Publishing. Newcastle upon Tyne: 1-12. 
 - Kivinen, Markku: Classes in the Making. Russian Class Structure in Transition. In Göran Therborn (ed.): Inequalities of the World. Verso 2007, 247-294.
 - Kivinen, Markku & Chunling Li: The Free-Market State or the Welfare State. In Christer Pursiainen (Ed.): At the Crossroads of Post-Communist Transition: Comparative Analysis of Russia and China, Palgrave Macmillan 2012 (forthcoming).
 - ??? Kivinen, Markku. Forthcoming. “Financing the Welfare State Systems in the Russian Federation.” in Christian Aspalter Financing, ed., Welfare State Systems in Asia. Forthcoming.
 - Korpi, Walter: The Democratic Class Struggle. Routledge and Kegan Paul 1983.
 - Kulmala, Meri (2013): State and Society in Small-town Russia. A Feminist-ethnographic Inquiry into the Boundaries of Society in the Finnish-Russian Borderland. Department of Social Research 2013:14, Sociology. Helsinki: University of Helsinki.  
 - Kulmala, Meri (2014): ”Missä valtio loppuu ja yhteiskunta alkaa?” Idäntutkimus 1/2014, 90-97.   
-- Kulmala, Meri: Russian Society. In: Russia of Challenges, Helsinki, Ministry of Defence 2007, 9–31.
-- Kulmala, Meri & Tarsenko, Anna (forthcoming 2015): The New OLD-FASHIONED?RUSSIAN VETERANS’ ORGANIZATIONS AT THE CROSSROADS OFSOCIAL SERVICES AND SOCIAL ADVOCACY. 
+- Kulmala, Meri & Tarsenko, Anna (forthcoming 2015): The New Old-fashioned? Russian Veterans' Oorganizations at the Crossroads of Social Services and Social Aadvocacy. An article manuscript. In Authoritarian Modernization in Post-Soviet Russia: Dilemmas, Challenges, and Constraints. Ed. by Vladimir Gel'man. Forthcoming in 2015.     
 - Korhonen, Vesa. 2013: “Fiscal flows between Moscow and the regions.” Presentation at the seminar: The Role of Regions in Russia’s Modernization. University of Helsinki. 12 December 2013. 
 - Lankina, Tomila. 2003. “Managing the Grassroots: Putin’s Reform of Local Government.” Russia and Eurasia Review 2 (9).
 - Lin, Ka & Kangas Olli: Social Policymaking and its institutional basis: Transition of the Chinese social security system. International Social Security Review, Vol. 59, 2/2006, 61–76.
