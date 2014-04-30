@@ -1,6 +1,6 @@
 % "Paradoxes of agency: democracy and welfare in Russia"
 % Kulmala Meri; Kivinen Markku; Nikula Jouko; Kainu Markus
-% April 29, 2014
+% April 30, 2014
 
 \thispagestyle{empty}
 
