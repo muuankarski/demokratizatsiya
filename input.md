@@ -33,13 +33,7 @@ After the collapse of the communist regime, Russian welfare structures have been
 
 In sum, what we have seen since 2005 is welfare related questions taking top position on the agenda of the Russian federal government with some concrete investments in welfare. At the same time, poverty rates have considerably declined and inequality stabilized (Kivinen, forthcoming).  Yet, the overall picture does not look that promising that one would assume after such substantial attention. 
 
-![Gross Domestic Product in Russia, China, Germany and Kazakhstan in 1990 - 2012 (Source: World Bank)](figure/fig1.pdf)
-
-
-
-![Health expenditure per capita in Russia, China, Germany and Kazakhstan in 1995 - 2012 (Source: World Bank)](figure/fig2.pdf)
-
-
+![Gross Domestic Product and life expectancy for female and male in selected countries in 1990 - 2012 (Source: World Bank)](figure/gdp_life.png)
 
 
 
