@@ -104,6 +104,7 @@ plz2 <- ggplot(dat.l, aes(x = year, y = value,
     theme(title = element_text(size=8)) +
     coord_cartesian(xlim=c(1995,2012))
 
+ggsave(file="../figure/gdp_life.png", width=10, height=6)
 
 
 ppi <- 300
@@ -181,8 +182,6 @@ df.plot <- subset(df_rosstat,
 
 #names(df.plot) <- "Average.per.capita.monthly.income"
 year <- c(1992,2000,2005,2007,2008,2009,2010,2011,2012)
-df.plot <- cbind(df.plot,year)
-df.plot.l <- melt(df.plot, id.vars="year")
 
 df.plot <- cbind(df.plot,year)
 df.plot.l <- melt(df.plot, id.vars="year")
@@ -195,7 +194,7 @@ df.plot.l <- subset(df.plot.l, year >= 2000)
 
 wages.long <- df.plot.l
 
-df <- join(dat_gdp,wages.long,by="year")
+df <- merge(dat_gdp,wages.long,by="year")
 df <- subset(df, year >= 2000)
 df1 <- subset(df, variable %in% 'Average accrued monthly wages, employed in the economy')
 df2 <- subset(df, variable %in% 'Average fixed pension size')
@@ -211,13 +210,13 @@ plotX <- function(dat,title) {
         labs(x = "GDP in RUB billion", 
              y = "Roubles per Month",
              title=title) +
-        theme_minimal() +
-        coord_cartesian(xlim=c(0,70000)) +
-        theme(axis.title.y = element_text(size=8)) +
-        theme(axis.title.x = element_text(size=8)) +
-        theme(axis.text.y = element_text(size=8)) +
-        theme(axis.text.x = element_text(size=8)) +
-        theme(title = element_text(size=7))
+        theme_bw() +
+        coord_cartesian(xlim=c(0,70000)) #+
+#         theme(axis.title.y = element_text(size=8)) +
+#         theme(axis.title.x = element_text(size=8)) +
+#         theme(axis.text.y = element_text(size=8)) +
+#         theme(axis.text.x = element_text(size=8)) +
+#         theme(title = element_text(size=7))
 }
 
 pl1 <- plotX(df1,"GDP vs. average wages")
@@ -226,7 +225,7 @@ pl3 <- plotX(df3,"GDP vs. annual average minimun wage")
 pl4 <- plotX(df3,"GDP vs. level of subsistence minimun")
 
 ppi <- 300
-png("../figure/macroplot1.png", width=12/2.54*ppi, height=14/2.54*ppi, res=ppi)
+png("../figure/macroplot1.png", width=24/2.54*ppi, height=26/2.54*ppi, res=ppi)
 library(grid)
 grid.newpage()
 pushViewport(viewport(layout=grid.layout(2,2)))
@@ -263,24 +262,24 @@ library(wesanderson)
 pl <- ggplot(df.plot.l, aes(x=year, y=value.num, 
                       label=value.num, color=variable)) + 
     geom_line() + geom_point() + 
-    geom_text(size=3, hjust=0.0, vjust=-0.5) + 
-    theme_minimal() +
+    geom_text(size=3, hjust=1.2, vjust=-0.5) + 
+    theme_bw() +
     scale_color_manual(values = wes.palette(5, "Cavalcanti")) +
     theme(legend.position="top") +
     guides(color = guide_legend(nrow = 5,keyheight =.5)) +
     theme(legend.title=element_blank()) +
     labs(x = "Year", y = "log of Billion US$") +
-    theme(axis.title.y = element_text(size=8)) +
-    theme(axis.title.x = element_text(size=8)) +
-    theme(axis.text.y = element_text(size=8)) +
-    theme(axis.text.x = element_text(size=8)) +
-    theme(legend.text = element_text(size=8)) +
-    theme(title = element_text(size=7)) +
+#     theme(axis.title.y = element_text(size=8)) +
+#     theme(axis.title.x = element_text(size=8)) +
+#     theme(axis.text.y = element_text(size=8)) +
+#     theme(axis.text.x = element_text(size=8)) +
+#     theme(legend.text = element_text(size=8)) +
+#     theme(title = element_text(size=7)) +
     coord_cartesian(xlim=c(2000,2014)) +
     scale_y_log10()
 
 
 ppi <- 300
-png("../figure/macroplot2.png", width=12/2.54*ppi, height=14/2.54*ppi, res=ppi)
+png("../figure/macroplot2.png", width=24/2.54*ppi, height=20/2.54*ppi, res=ppi)
 pl
 dev.off()

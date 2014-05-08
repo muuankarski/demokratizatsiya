@@ -1,6 +1,6 @@
 % "Paradoxes of agency: democracy and welfare in Russia"
 % Kulmala Meri; Kivinen Markku; Nikula Jouko; Kainu Markus
-% May, 7, 2014
+% May, 8, 2014
 
 \thispagestyle{empty}
 
@@ -35,7 +35,7 @@ In sum, what we have seen since 2005 is welfare related questions taking top pos
 
 ![Gross Domestic Product and life expectancy for female and male in selected countries in 1990 - 2012 (Source: World Bank)](figure/gdp_life.png)
 
-
+Figure 1 illustrates the developments in  
 
 
 
